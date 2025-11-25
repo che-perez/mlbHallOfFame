@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "name": "Bobby Abreu",
+    "year_on_ballot": 7,
+    "voters": []
+  },
+  {
+    "id": 2,
+    "name": "Carlos Beltrán",
+    "year_on_ballot": 4,
+    "voters": ["Jorge Morejón", "William Ladson"]
+  },
+  {
+    "id": 3,
+    "name": "Ryan Braun",
+    "year_on_ballot": 1,
+    "voters": []
+  },
+    {
+    "id": 4,
+    "name": "Mark Buehrle",
+    "year_on_ballot": 6,
+    "voters": ["William Ladson"]
+  },
+  {
+    "id": 5,
+    "name": "Shin-Soo Choo",
+    "year_on_ballot": 1,
+    "voters": []
+  },
+  {
+    "id": 6,
+    "name": "Edwin Encarnación",
+    "year_on_ballot": 1,
+    "voters": []
+  },
+  {
+    "id": 7,
+    "name": "Gio González",
+    "year_on_ballot": 1,
+    "voters": []
+  },
+  {
+    "id": 8,
+    "name": "Alex Gordon",
+    "year_on_ballot": 1,
+    "voters": []
+  },
+  {
+    "id": 9,
+    "name": "Cole Hamels",
+    "year_on_ballot": 1,
+    "voters": []
+  },
+  {
+    "id": 10,
+    "name": "Félix Hernández",
+    "year_on_ballot": 2,
+    "voters": ["William Ladson"]
+  },
+  {
+    "id": 11,
+    "name": "Tori Hunter",
+    "year_on_ballot": 6,
+    "voters": []
+  },
+  {
+    "id": 12,
+    "name": "Andruw Jones",
+    "year_on_ballot": 9,
+    "voters": ["Jorge Morejón", "William Ladson"]
+  },
+  {
+    "id": 13,
+    "name": "Matt Kemp",
+    "year_on_ballot": 1,
+    "voters": []
+  },
+  {
+    "id": 14,
+    "name": "Howie Kendrick",
+    "year_on_ballot": 1,
+    "voters": []
+  },
+  {
+    "id": 15,
+    "name": "Nick Markakis",
+    "year_on_ballot": 1,
+    "voters": []
+  },
+  {
+    "id": 16,
+    "name": "Daniel Murphy",
+    "year_on_ballot": 1,
+    "voters": []
+  },
+  {
+    "id": 17,
+    "name": "Dustin Pedroia",
+    "year_on_ballot": 2,
+    "voters": []
+  },
+  {
+    "id": 18,
+    "name": "Hunter Pence",
+    "year_on_ballot": 1,
+    "voters": []
+  },
+  {
+    "id": 19,
+    "name": "Andy Pettitte",
+    "year_on_ballot": 8,
+    "voters": ["Jorge Morejón", "William Ladson"]
+  },
+  {
+    "id": 20,
+    "name": "Rick Porcello",
+    "year_on_ballot": 1,
+    "voters": []
+  },
+  {
+    "id": 21,
+    "name": "Manny Ramirez",
+    "year_on_ballot": 10,
+    "voters": []
+  },
+  {
+    "id": 22,
+    "name": "Alex Rodríguez",
+    "year_on_ballot": 5,
+    "voters": []
+  },
+  {
+    "id": 23,
+    "name": "Francisco Rodríguez",
+    "year_on_ballot": 4,
+    "voters": ["Jorge Morejón"]
+  },
+  {
+    "id": 24,
+    "name": "Jimmy Rollins",
+    "year_on_ballot": 5,
+    "voters": []
+  },
+  {
+    "id": 25,
+    "name": "Chase Utley",
+    "year_on_ballot": 3,
+    "voters": []
+  },
+  {
+    "id": 26,
+    "name": "Omar Vizquel",
+    "year_on_ballot": 9,
+    "voters": ["Jorge Morejón"]
+  },
+  {
+    "id": 27,
+    "name": "David Wright",
+    "year_on_ballot": 3,
+    "voters": []
+  }
+]

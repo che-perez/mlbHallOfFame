@@ -1,35 +1,24 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { type JSX } from 'react';
+import { User, Award, TrendingUp, Info } from 'lucide-react';
 
-function App() {
-  const [count, setCount] = useState(0)
+import data from "./data/players.json";
+
+export default function App():JSX.Element {
+  console.log(data);
 
   return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
+    <main className="min-h-screen bg-gradient-to-b from-slate-50 to-white" role="main">
+       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-10">
+        <header className="mb-8 sm:mb-12">
+          <div className="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4">
+            <div>
+              <p className="text-xs sm:text-sm font-medium text-slate-500 uppercase tracking-wider mb-1">BBWA Voting Tracker</p>
+              <h1 className="text-2xl sm:text-4xl font-bold text-slate-900 tracking-tight">2026 Hall of Fame</h1>
+              <p className="mt-2 text-sm sm:text-base text-slate-600 max-w-xl">Track the latest voting status for MLB Hall of Fame. <span className="text-green-500">75% is required for election.</span></p>
+            </div>
+          </div>
+        </header>
+       </div>
+    </main>
   )
 }
-
-export default App
