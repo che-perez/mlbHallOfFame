@@ -1,4 +1,6 @@
-[
+{
+  "total_voters": 2,
+  "players": [
   {
     "id": 1,
     "name": "Bobby Abreu",
@@ -161,4 +163,6 @@
     "year_on_ballot": 3,
     "voters": []
   }
-]
+  ]
+}
+
