@@ -6,6 +6,7 @@ import data from "./data/players.json";
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from '@radix-ui/react-tooltip';
 
 import VotingChart from './components/tsx/VotingChart';
+import CandidateList from "./components/tsx/CandidateList";
 
 type VoteData = {
   totalVoters: number;
@@ -118,6 +119,16 @@ export default function App():JSX.Element {
               </div>
               {/* VotingCharts */}
               <VotingChart players={votingData.players} totalVotes={votingData.totalVoters} />
+            </CardContent>
+          </Card>
+        </section>
+
+        {/* Player List */}
+        <section className="mt-6 sm:mt-8" aria-label="Detailed Player List">
+          <Card className="border-0 shadow-sm bg-white">
+            <CardContent className="p-4 sm:p-6">
+              <h2 className="text-lg font-semibold text-slate-900 mb-4">All Candidates</h2>
+              <CandidateList players={votingData.players} totalVotes={votingData.totalVoters} />
             </CardContent>
           </Card>
         </section>
