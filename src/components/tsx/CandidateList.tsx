@@ -35,7 +35,7 @@ export default function CandidateList({ players, totalVotes }: CandidateListProp
                         <Collapsible open={isExpanded} onOpenChange={() => setExpandedPlayer(isExpanded ? null : player.name)}>
                             <div className="flex items-center justify-between">
                                 <div className="flex items-center gap-3 min-w-0 flex-1">
-                                    <span className="flex-shrink-0 w-6 h-6 rounded-full bg-slate-100 flex items-center justify-ceneter text-xs font-medium text-slate-600" aria-hidden="true">{player.id}</span>
+                                    <span className="flex-shrink-0 w-6 h-6 rounded-full bg-slate-100 flex items-center justify-center text-xs font-medium text-slate-600" aria-hidden="true">{player.id}</span>
                                     <div className="min-w-0 flex-1">
                                         <p className="font-medium text-slate-900">{player.name}</p>
                                         <p className="text-xs text-slate-500">{player.voters.length} vote{player.voters.length !== 1 ? "s" : ""}</p>

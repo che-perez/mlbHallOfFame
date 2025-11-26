@@ -36,10 +36,10 @@ export default function App():JSX.Element {
             <div>
               <p className="text-xs sm:text-sm font-medium text-slate-500 uppercase tracking-wider mb-1">BBWA Voting Tracker</p>
               <h1 className="text-2xl sm:text-4xl font-bold text-slate-900 tracking-tight">2026 Hall of Fame</h1>
-              <p className="mt-2 text-sm sm:text-base text-slate-600 max-w-xl">Track the latest voting status for MLB Hall of Fame. <span className="text-green-500">75% is required for election.</span></p>
+              <p className="mt-2 text-sm sm:text-base text-slate-600">Track the latest voting status for MLB Hall of Fame. <span className="text-green-500">75% is required for election.</span></p>
             </div>
           </div>
-          <div className="mt-3 flex- flex-wrap items-center gap-x-4 gap-y-1 text-xs tex-slate-400">
+          <div className="mt-3 gap-x-4 gap-y-1 text-xs text-slate-400">
             <span>Last updated: 11/25/2025</span><br/><span>{votingData.totalVoters} Total Ballots (Only Public Official Results)</span>
           </div>
         </header>
@@ -47,7 +47,7 @@ export default function App():JSX.Element {
         <section className="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4 mb-8 sm:mb-10" aria-label="Voting Stats">
           <Card className="border-0 shadow-sm bg-white">
             <CardContent className="p-4 sm:p-6">
-              <div className="flex items-center gab-3">
+              <div className="flex items-center gap-3">
                 <div className="p-2 rounded-lg bg-emerald-50" aria-hidden="true">
                   <Award className="h-5 w-5 text-emerald-600" />
                 </div>
@@ -60,7 +60,7 @@ export default function App():JSX.Element {
           </Card>
           <Card className="border-0 shadow-sm bg-white">
             <CardContent className="p-4 sm:p-6">
-              <div className="flex items-center gab-3">
+              <div className="flex items-center gap-3">
                 <div className="p-2 rounded-lg bg-blue-50" aria-hidden="true">
                   <User className="h-5 w-5 text-blue-600" />
                 </div>
@@ -73,7 +73,7 @@ export default function App():JSX.Element {
           </Card>
           <Card className="border-0 shadow-sm bg-white">
             <CardContent className="p-4 sm:p-6">
-              <div className="flex items-center gab-3">
+              <div className="flex items-center gap-3">
                 <div className="p-2 rounded-lg bg-violet-50" aria-hidden="true">
                   <TrendingUp className="h-5 w-5 text-violet-600" />
                 </div>
@@ -86,7 +86,7 @@ export default function App():JSX.Element {
           </Card>
           <Card className="border-0 shadow-sm bg-white">
             <CardContent className="p-4 sm:p-6">
-              <div className="flex items-center gab-3">
+              <div className="flex items-center gap-3">
                 <div className="p-2 rounded-lg bg-amber-50" aria-hidden="true">
                   <Info className="h-5 w-5 text-amber-600" />
                 </div>
