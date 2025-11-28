@@ -6,7 +6,7 @@ import { Button } from "../ui/button";
 import { Collapsible, CollapsibleContent, CollapsibleTrigger } from "../ui/collapsible";
 import { ScrollArea } from "../ui/scroll-area";
 
-const ELECTION_THRESHOLD = 75;
+const ELECTION_THRESHOLD: number = 75;
 
 interface Player {
   id: number;

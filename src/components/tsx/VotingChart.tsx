@@ -30,7 +30,7 @@ interface CustomTooltipProps {
     label?: string;
 }
 
-const ELECTION_THRESHOLD = 75;
+const ELECTION_THRESHOLD: number = 75;
 
 const getBarColor = (percentage: number): string => {
     if(percentage >= ELECTION_THRESHOLD) return "#059669";
@@ -63,7 +63,7 @@ export default function VotingChart({ players, totalVotes }: VotingChartProps): 
     return (
         <div className="h-[500px]" role="img" aria-label={`Bar Chart showing ${players.length} Hall of Fame candidates and their vote percentages.`}>
             <ResponsiveContainer width="100%" height="100%">
-                <BarChart data={playerData} margin={{ top: 20, right: 20, left: 10, bottom: 120 }} aria-label="Hall of Fame voting percentages">
+                <BarChart data={playerData} margin={{ top: 20, right: 20, left: 10 }} aria-label="Hall of Fame voting percentages">
                     <CartesianGrid strokeDasharray="3 3" stroke="#E5E7EB" vertical={false} />
                     <XAxis dataKey="name" tick={{ fontSize: 11, fill: "#4B5563", textAnchor: "end" }} angle={-45} interval={0} axisLine={{ stroke: "#E5E7EB"}} tickLine={false} height={120} />
                     <YAxis domain={[ 0, 100 ]} tick={{ fontSize: 12, fill: "#6B7280" }} axisLine={false} tickLine={false} tickFormatter={(value) => `${value}%`} width={45} />

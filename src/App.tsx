@@ -7,6 +7,7 @@ import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from '@radix
 
 import VotingChart from './components/tsx/VotingChart';
 import CandidateList from "./components/tsx/CandidateList";
+import MobilePlayerCards from './components/tsx/MobilePlayerCards';
 
 type VoteData = {
   totalVoters: number;
@@ -21,9 +22,10 @@ type Players = {
 }
 
 export default function App():JSX.Element {
+
   const votingData: VoteData = data;
 
-  const ELECTION_THRESHOLD = 75;
+  const ELECTION_THRESHOLD: number = 75;
 
   const playersOnTrack: number = votingData.players.filter(p => (p.voters.length / votingData.totalVoters) * 100 >= ELECTION_THRESHOLD).length;
   const topVoteGetter = votingData.players.reduce((prev, curr) => { return prev.voters.length > curr.voters.length ? prev : curr});
@@ -99,7 +101,7 @@ export default function App():JSX.Element {
           </Card>
         </section>
 
-        <section aria-label="Voting Bar Chart">
+        <section className="hidden sm:block" aria-label="Voting Bar Chart">
           <Card className="border-0 shadow-sm bg-white overflow-hidden">
             <CardContent className="p-4 sm:p-6">
               <div className="flex items-center justify-between mb-6">
@@ -125,12 +127,23 @@ export default function App():JSX.Element {
 
         {/* Player List */}
         <section className="mt-6 sm:mt-8" aria-label="Detailed Player List">
-          <Card className="border-0 shadow-sm bg-white">
-            <CardContent className="p-4 sm:p-6">
-              <h2 className="text-lg font-semibold text-slate-900 mb-4">All Candidates</h2>
-              <CandidateList players={votingData.players} totalVotes={votingData.totalVoters} />
-            </CardContent>
-          </Card>
+
+          {/* Mobile Version */}
+          <div className="sm:hidden">
+            <h2 className="text-lg font-semibold text-slate-900 mb-1 px-1">All Candidates</h2>
+            <MobilePlayerCards players={votingData.players} totalVoters={votingData.totalVoters} />
+          </div>
+
+
+          {/* Desktop Version */}
+          <div className="hidden sm:block">
+            <Card className="border-0 shadow-sm bg-white">
+              <CardContent className="p-4 sm:p-6">
+                <h2 className="text-lg font-semibold text-slate-900 mb-4">All Candidates</h2>
+                <CandidateList players={votingData.players} totalVotes={votingData.totalVoters} />
+              </CardContent>
+            </Card>
+          </div>
         </section>
        </div>
     </main>
