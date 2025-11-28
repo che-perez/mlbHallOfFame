@@ -3,6 +3,9 @@ import { Award, ChevronDown, Users, TrendingUp,  } from "lucide-react";
 import { Button } from "../ui/button";
 import { Collapsible, CollapsibleContent, CollapsibleTrigger } from "../ui/collapsible";
 import { ScrollArea } from "../ui/scroll-area";
+import { Dialog, DialogTrigger, DialogContent } from "../ui/dialog";
+
+import VotersModal from "./VotersModal";
 
 const ELECTION_THRESHOLD: number = 75;
 
@@ -122,7 +125,14 @@ export default function MobilePlayerCards({ players, totalVoters }: MobilePlayer
                                         <ScrollArea className="max-h-32">
                                             <div className="flex flex-wrap gap-1.5">
                                                 {player.voters.map((voter, idx) => (
-                                                    <span key={idx} className="px-2 py-1 bg-white border border-slate-200 rounded text-xs text-slate-700">{voter}</span>
+                                                    <Dialog key={idx}>
+                                                        <DialogTrigger asChild>
+                                                            <Button variant="link" className="px-2 py-1 bg-white border border-slate-200 rounded text-xs text-slate-700 hover:cursor-pointer">{voter}</Button>
+                                                        </DialogTrigger>
+                                                        <DialogContent className="sm:max-w-[425px]">
+                                                            <VotersModal voterName={voter} players={players} />
+                                                        </DialogContent>
+                                                    </Dialog>
                                                 ))}
                                             </div>
                                         </ScrollArea>
