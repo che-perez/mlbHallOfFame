@@ -1,5 +1,5 @@
 {
-  "totalVoters": 4,
+  "totalVoters": 5,
   "players": [
   {
     "id": 1,
@@ -161,7 +161,7 @@
     "id": 27,
     "name": "David Wright",
     "yearsOnBallot": 3,
-    "voters": ["Adam Rubin"]
+    "voters": ["Adam Rubin", "Annon 1"]
   }
   ]
 }
