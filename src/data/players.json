@@ -1,5 +1,5 @@
 {
-  "totalVoters": 5,
+  "totalVoters": 6,
   "players": [
   {
     "id": 1,
@@ -11,7 +11,7 @@
     "id": 2,
     "name": "Carlos Beltrán",
     "yearsOnBallot": 4,
-    "voters": ["Adam Rubin", "Jorge Morejón", "William Ladson", "Lynn Henning"]
+    "voters": ["Adam Rubin", "Jorge Morejón", "William Ladson", "Lynn Henning", "Barry Bloom"]
   },
   {
     "id": 3,
@@ -113,7 +113,7 @@
     "id": 19,
     "name": "Andy Pettitte",
     "yearsOnBallot": 8,
-    "voters": ["Jorge Morejón", "William Ladson"]
+    "voters": ["Jorge Morejón", "William Ladson", "Barry Bloom"]
   },
   {
     "id": 20,
@@ -131,7 +131,7 @@
     "id": 22,
     "name": "Alex Rodríguez",
     "yearsOnBallot": 5,
-    "voters": ["Adam Rubin","Lynn Henning"]
+    "voters": ["Adam Rubin","Lynn Henning", "Barry Bloom"]
   },
   {
     "id": 23,
@@ -143,13 +143,13 @@
     "id": 24,
     "name": "Jimmy Rollins",
     "yearsOnBallot": 5,
-    "voters": ["Adam Rubin"]
+    "voters": ["Adam Rubin", "Barry Bloom"]
   },
   {
     "id": 25,
     "name": "Chase Utley",
     "yearsOnBallot": 3,
-    "voters": ["Adam Rubin"]
+    "voters": ["Adam Rubin", "Barry Bloom"]
   },
   {
     "id": 26,
