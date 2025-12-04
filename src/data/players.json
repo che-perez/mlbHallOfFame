@@ -1,5 +1,5 @@
 {
-  "totalVoters": 6,
+  "totalVoters": 7,
   "players": [
   {
     "id": 1,
@@ -11,7 +11,7 @@
     "id": 2,
     "name": "Carlos Beltrán",
     "yearsOnBallot": 4,
-    "voters": ["Adam Rubin", "Jorge Morejón", "William Ladson", "Lynn Henning", "Barry Bloom"]
+    "voters": ["Adam Rubin", "Jorge Morejón", "William Ladson", "Lynn Henning", "Barry Bloom", "Michael McGarry"]
   },
   {
     "id": 3,
@@ -53,13 +53,13 @@
     "id": 9,
     "name": "Cole Hamels",
     "yearsOnBallot": 1,
-    "voters": []
+    "voters": ["Michael McGarry"]
   },
   {
     "id": 10,
     "name": "Félix Hernández",
     "yearsOnBallot": 2,
-    "voters": ["William Ladson"]
+    "voters": ["William Ladson", "Michael McGarry"]
   },
   {
     "id": 11,
@@ -71,7 +71,7 @@
     "id": 12,
     "name": "Andruw Jones",
     "yearsOnBallot": 9,
-    "voters": ["Adam Rubin","Jorge Morejón", "William Ladson"]
+    "voters": ["Adam Rubin","Jorge Morejón", "William Ladson", "Michael McGarry"]
   },
   {
     "id": 13,
@@ -101,7 +101,7 @@
     "id": 17,
     "name": "Dustin Pedroia",
     "yearsOnBallot": 2,
-    "voters": []
+    "voters": ["Michael McGarry"]
   },
   {
     "id": 18,
@@ -113,7 +113,7 @@
     "id": 19,
     "name": "Andy Pettitte",
     "yearsOnBallot": 8,
-    "voters": ["Jorge Morejón", "William Ladson", "Barry Bloom"]
+    "voters": ["Jorge Morejón", "William Ladson", "Barry Bloom", "Michael McGarry"]
   },
   {
     "id": 20,
@@ -125,13 +125,13 @@
     "id": 21,
     "name": "Manny Ramirez",
     "yearsOnBallot": 10,
-    "voters": ["Adam Rubin"]
+    "voters": ["Adam Rubin", "Michael McGarry"]
   },
   {
     "id": 22,
     "name": "Alex Rodríguez",
     "yearsOnBallot": 5,
-    "voters": ["Adam Rubin","Lynn Henning", "Barry Bloom"]
+    "voters": ["Adam Rubin","Lynn Henning", "Barry Bloom", "Michael McGarry"]
   },
   {
     "id": 23,
@@ -143,13 +143,13 @@
     "id": 24,
     "name": "Jimmy Rollins",
     "yearsOnBallot": 5,
-    "voters": ["Adam Rubin", "Barry Bloom"]
+    "voters": ["Adam Rubin", "Barry Bloom", "Michael McGarry"]
   },
   {
     "id": 25,
     "name": "Chase Utley",
     "yearsOnBallot": 3,
-    "voters": ["Adam Rubin", "Barry Bloom"]
+    "voters": ["Adam Rubin", "Barry Bloom", "Michael McGarry"]
   },
   {
     "id": 26,
