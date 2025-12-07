@@ -1,5 +1,5 @@
 {
-  "totalVoters": 8,
+  "totalVoters": 9,
   "players": [
   {
     "id": 1,
@@ -11,19 +11,19 @@
     "id": 2,
     "name": "Carlos Beltrán",
     "yearsOnBallot": 4,
-    "voters": ["Adam Rubin", "Aurelio Moreno", "Jorge Morejón", "William Ladson", "Lynn Henning", "Barry Bloom", "Michael McGarry"]
+    "voters": ["Adam Rubin", "Aurelio Moreno", "Jorge Morejón", "William Ladson", "Lynn Henning", "Barry Bloom", "Michael McGarry", "Filip Bondy"]
   },
   {
     "id": 3,
     "name": "Ryan Braun",
     "yearsOnBallot": 1,
-    "voters": []
+    "voters": ["Filip Bondy"]
   },
     {
     "id": 4,
     "name": "Mark Buehrle",
     "yearsOnBallot": 6,
-    "voters": ["William Ladson"]
+    "voters": ["William Ladson", "Filip Bondy"]
   },
   {
     "id": 5,
@@ -59,7 +59,7 @@
     "id": 10,
     "name": "Félix Hernández",
     "yearsOnBallot": 2,
-    "voters": ["William Ladson", "Michael McGarry"]
+    "voters": ["William Ladson", "Michael McGarry", "Filip Bondy"]
   },
   {
     "id": 11,
@@ -71,7 +71,7 @@
     "id": 12,
     "name": "Andruw Jones",
     "yearsOnBallot": 9,
-    "voters": ["Adam Rubin","Aurelio Moreno", "Jorge Morejón", "William Ladson", "Michael McGarry"]
+    "voters": ["Adam Rubin","Aurelio Moreno", "Jorge Morejón", "William Ladson", "Michael McGarry", "Filip Bondy"]
   },
   {
     "id": 13,
@@ -113,7 +113,7 @@
     "id": 19,
     "name": "Andy Pettitte",
     "yearsOnBallot": 8,
-    "voters": ["Jorge Morejón", "William Ladson", "Barry Bloom", "Michael McGarry"]
+    "voters": ["Jorge Morejón", "William Ladson", "Barry Bloom", "Michael McGarry", "Filip Bondy"]
   },
   {
     "id": 20,
@@ -125,19 +125,19 @@
     "id": 21,
     "name": "Manny Ramirez",
     "yearsOnBallot": 10,
-    "voters": ["Adam Rubin", "Michael McGarry"]
+    "voters": ["Adam Rubin", "Michael McGarry", "Filip Bondy"]
   },
   {
     "id": 22,
     "name": "Alex Rodríguez",
     "yearsOnBallot": 5,
-    "voters": ["Adam Rubin","Lynn Henning", "Barry Bloom", "Michael McGarry"]
+    "voters": ["Adam Rubin","Lynn Henning", "Barry Bloom", "Michael McGarry", "Filip Bondy"]
   },
   {
     "id": 23,
     "name": "Francisco Rodríguez",
     "yearsOnBallot": 4,
-    "voters": ["Jorge Morejón"]
+    "voters": ["Jorge Morejón", "Filip Bondy"]
   },
   {
     "id": 24,
@@ -155,7 +155,7 @@
     "id": 26,
     "name": "Omar Vizquel",
     "yearsOnBallot": 9,
-    "voters": ["Aurelio Moreno", "Jorge Morejón"]
+    "voters": ["Aurelio Moreno", "Jorge Morejón", "Filip Bondy"]
   },
   {
     "id": 27,
