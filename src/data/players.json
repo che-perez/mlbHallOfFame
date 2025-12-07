@@ -1,17 +1,17 @@
 {
-  "totalVoters": 7,
+  "totalVoters": 8,
   "players": [
   {
     "id": 1,
     "name": "Bobby Abreu",
     "yearsOnBallot": 7,
-    "voters": []
+    "voters": ["Aurelio Moreno"]
   },
   {
     "id": 2,
     "name": "Carlos Beltrán",
     "yearsOnBallot": 4,
-    "voters": ["Adam Rubin", "Jorge Morejón", "William Ladson", "Lynn Henning", "Barry Bloom", "Michael McGarry"]
+    "voters": ["Adam Rubin", "Aurelio Moreno", "Jorge Morejón", "William Ladson", "Lynn Henning", "Barry Bloom", "Michael McGarry"]
   },
   {
     "id": 3,
@@ -71,7 +71,7 @@
     "id": 12,
     "name": "Andruw Jones",
     "yearsOnBallot": 9,
-    "voters": ["Adam Rubin","Jorge Morejón", "William Ladson", "Michael McGarry"]
+    "voters": ["Adam Rubin","Aurelio Moreno", "Jorge Morejón", "William Ladson", "Michael McGarry"]
   },
   {
     "id": 13,
@@ -155,7 +155,7 @@
     "id": 26,
     "name": "Omar Vizquel",
     "yearsOnBallot": 9,
-    "voters": ["Jorge Morejón"]
+    "voters": ["Aurelio Moreno", "Jorge Morejón"]
   },
   {
     "id": 27,
