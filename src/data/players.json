@@ -1,17 +1,17 @@
 {
-  "totalVoters": 10,
+  "totalVoters": 11,
   "players": [
   {
     "id": 1,
     "name": "Bobby Abreu",
     "yearsOnBallot": 7,
-    "voters": ["Aurelio Moreno", "Brian MacPherson"]
+    "voters": ["Aurelio Moreno", "Brian MacPherson", "Dan Szymborski"]
   },
   {
     "id": 2,
     "name": "Carlos Beltrán",
     "yearsOnBallot": 4,
-    "voters": ["Adam Rubin", "Aurelio Moreno", "Brian MacPherson", "Jorge Morejón", "William Ladson", "Lynn Henning", "Barry Bloom", "Michael McGarry", "Filip Bondy"]
+    "voters": ["Adam Rubin", "Aurelio Moreno", "Brian MacPherson", "Jorge Morejón", "William Ladson", "Lynn Henning", "Barry Bloom", "Michael McGarry", "Filip Bondy", "Dan Szymborski"]
   },
   {
     "id": 3,
@@ -23,7 +23,7 @@
     "id": 4,
     "name": "Mark Buehrle",
     "yearsOnBallot": 6,
-    "voters": ["William Ladson", "Filip Bondy", "Brian MacPherson"]
+    "voters": ["William Ladson", "Filip Bondy", "Brian MacPherson", "Dan Szymborski"]
   },
   {
     "id": 5,
@@ -53,13 +53,13 @@
     "id": 9,
     "name": "Cole Hamels",
     "yearsOnBallot": 1,
-    "voters": ["Michael McGarry", "Brian MacPherson"]
+    "voters": ["Michael McGarry", "Brian MacPherson", "Dan Szymborski"]
   },
   {
     "id": 10,
     "name": "Félix Hernández",
     "yearsOnBallot": 2,
-    "voters": ["William Ladson", "Michael McGarry", "Filip Bondy", "Brian MacPherson"]
+    "voters": ["William Ladson", "Michael McGarry", "Filip Bondy", "Brian MacPherson", "Dan Szymborski"]
   },
   {
     "id": 11,
@@ -71,7 +71,7 @@
     "id": 12,
     "name": "Andruw Jones",
     "yearsOnBallot": 9,
-    "voters": ["Adam Rubin","Aurelio Moreno", "Brian MacPherson", "Jorge Morejón", "William Ladson", "Michael McGarry", "Filip Bondy"]
+    "voters": ["Adam Rubin","Aurelio Moreno", "Brian MacPherson", "Jorge Morejón", "William Ladson", "Michael McGarry", "Filip Bondy", "Dan Szymborski"]
   },
   {
     "id": 13,
@@ -101,7 +101,7 @@
     "id": 17,
     "name": "Dustin Pedroia",
     "yearsOnBallot": 2,
-    "voters": ["Michael McGarry", "Brian MacPherson"]
+    "voters": ["Michael McGarry", "Brian MacPherson", "Dan Szymborski"]
   },
   {
     "id": 18,
@@ -113,7 +113,7 @@
     "id": 19,
     "name": "Andy Pettitte",
     "yearsOnBallot": 8,
-    "voters": ["Jorge Morejón", "William Ladson", "Barry Bloom", "Brian MacPherson", "Michael McGarry", "Filip Bondy"]
+    "voters": ["Jorge Morejón", "William Ladson", "Barry Bloom", "Brian MacPherson", "Michael McGarry", "Filip Bondy", "Dan Szymborski"]
   },
   {
     "id": 20,
@@ -149,7 +149,7 @@
     "id": 25,
     "name": "Chase Utley",
     "yearsOnBallot": 3,
-    "voters": ["Adam Rubin", "Barry Bloom", "Brian MacPherson", "Michael McGarry"]
+    "voters": ["Adam Rubin", "Barry Bloom", "Brian MacPherson", "Michael McGarry", "Dan Szymborski"]
   },
   {
     "id": 26,
@@ -161,7 +161,7 @@
     "id": 27,
     "name": "David Wright",
     "yearsOnBallot": 3,
-    "voters": ["Adam Rubin", "Annon 1"]
+    "voters": ["Adam Rubin", "Annon 1", "Dan Szymborski"]
   }
   ]
 }
