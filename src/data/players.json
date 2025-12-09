@@ -1,5 +1,5 @@
 {
-  "totalVoters": 16,
+  "totalVoters": 17,
   "players": [
   {
     "id": 1,
@@ -75,8 +75,9 @@
     "id": 12,
     "name": "Andruw Jones",
     "yearsOnBallot": 9,
-    "voters": ["Adam Rubin","Aurelio Moreno", "Brian MacPherson", "Jorge Morejón", "Doug Miller", "William Ladson", 
-    "Michael McGarry", "Filip Bondy", "Dan Szymborski", "David Jablonski", "Octavio Sequera", "Arden Zwelling"]
+    "voters": ["Adam Rubin","Aurelio Moreno", "Brian MacPherson", "Bill Center", "Jorge Morejón", "Doug Miller", 
+    "William Ladson", "Michael McGarry", "Filip Bondy", "Dan Szymborski", "David Jablonski", "Octavio Sequera", 
+    "Arden Zwelling"]
   },
   {
     "id": 13,
