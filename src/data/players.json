@@ -1,17 +1,20 @@
 {
-  "totalVoters": 14,
+  "totalVoters": 15,
   "players": [
   {
     "id": 1,
     "name": "Bobby Abreu",
     "yearsOnBallot": 7,
-    "voters": ["Aurelio Moreno", "Brian MacPherson", "Chis McCosky", "Dan Szymborski", "David Jablonski", "Doug Miller"]
+    "voters": ["Aurelio Moreno", "Brian MacPherson", "Chis McCosky", "Dan Szymborski", "David Jablonski", "Doug Miller", 
+    "Octavio Sequera"]
   },
   {
     "id": 2,
     "name": "Carlos Beltrán",
     "yearsOnBallot": 4,
-    "voters": ["Adam Rubin", "Aurelio Moreno", "Brian MacPherson", "Chis McCosky", "Doug Miller", "Jorge Morejón", "William Ladson", "Lynn Henning", "Barry Bloom", "Michael McGarry", "Filip Bondy", "Dan Szymborski", "David Jablonski"]
+    "voters": ["Adam Rubin", "Aurelio Moreno", "Brian MacPherson", "Chis McCosky", "Doug Miller", "Jorge Morejón", 
+    "William Ladson", "Lynn Henning", "Barry Bloom", "Michael McGarry", "Filip Bondy", "Dan Szymborski", 
+    "David Jablonski", "Octavio Sequera"]
   },
   {
     "id": 3,
@@ -59,19 +62,21 @@
     "id": 10,
     "name": "Félix Hernández",
     "yearsOnBallot": 2,
-    "voters": ["William Ladson", "Michael McGarry", "Filip Bondy", "Brian MacPherson", "Doug Miller", "Dan Szymborski", "David Jablonski"]
+    "voters": ["William Ladson", "Michael McGarry", "Filip Bondy", "Brian MacPherson", "Doug Miller", "Dan Szymborski", 
+    "David Jablonski", "Octavio Sequera"]
   },
   {
     "id": 11,
     "name": "Tori Hunter",
     "yearsOnBallot": 6,
-    "voters": []
+    "voters": ["Octavio Sequera"]
   },
   {
     "id": 12,
     "name": "Andruw Jones",
     "yearsOnBallot": 9,
-    "voters": ["Adam Rubin","Aurelio Moreno", "Brian MacPherson", "Jorge Morejón", "Doug Miller", "William Ladson", "Michael McGarry", "Filip Bondy", "Dan Szymborski", "David Jablonski"]
+    "voters": ["Adam Rubin","Aurelio Moreno", "Brian MacPherson", "Jorge Morejón", "Doug Miller", "William Ladson", 
+    "Michael McGarry", "Filip Bondy", "Dan Szymborski", "David Jablonski", "Octavio Sequera"]
   },
   {
     "id": 13,
@@ -101,7 +106,7 @@
     "id": 17,
     "name": "Dustin Pedroia",
     "yearsOnBallot": 2,
-    "voters": ["Michael McGarry", "Brian MacPherson", "Dan Szymborski"]
+    "voters": ["Michael McGarry", "Brian MacPherson", "Dan Szymborski", "Octavio Sequera"]
   },
   {
     "id": 18,
@@ -131,13 +136,14 @@
     "id": 22,
     "name": "Alex Rodríguez",
     "yearsOnBallot": 5,
-    "voters": ["Adam Rubin","Lynn Henning", "Barry Bloom", "Brian MacPherson", "Chis McCosky", "Doug Miller", "Michael McGarry", "Filip Bondy", "David Jablonski"]
+    "voters": ["Adam Rubin","Lynn Henning", "Barry Bloom", "Brian MacPherson", "Chis McCosky", "Doug Miller", 
+    "Michael McGarry", "Filip Bondy", "David Jablonski"]
   },
   {
     "id": 23,
     "name": "Francisco Rodríguez",
     "yearsOnBallot": 4,
-    "voters": ["Jorge Morejón", "Filip Bondy"]
+    "voters": ["Jorge Morejón", "Filip Bondy", "Octavio Sequera"]
   },
   {
     "id": 24,
@@ -149,13 +155,14 @@
     "id": 25,
     "name": "Chase Utley",
     "yearsOnBallot": 3,
-    "voters": ["Adam Rubin", "Barry Bloom", "Brian MacPherson", "Michael McGarry", "Dan Szymborski", "David Jablonski", "Doug Miller"]
+    "voters": ["Adam Rubin", "Barry Bloom", "Brian MacPherson", "Michael McGarry", "Dan Szymborski", "David Jablonski", 
+    "Doug Miller", "Octavio Sequera"]
   },
   {
     "id": 26,
     "name": "Omar Vizquel",
     "yearsOnBallot": 9,
-    "voters": ["Aurelio Moreno", "Jorge Morejón", "Filip Bondy", "Doug Miller"]
+    "voters": ["Aurelio Moreno", "Jorge Morejón", "Filip Bondy", "Doug Miller", "Octavio Sequera"]
   },
   {
     "id": 27,
