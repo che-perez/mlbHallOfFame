@@ -23,6 +23,17 @@ interface CandidateListProps {
     totalVotes: number;
 }
 
+const sortVoters = (voters: string[]) => {
+    const sortedNames = [...voters];
+
+    sortedNames.sort((a, b) => {
+        return a.localeCompare(b);
+    });
+
+    console.log(sortedNames);
+    return sortedNames;
+}
+
 export default function CandidateList({ players, totalVotes }: CandidateListProps ): JSX.Element {
     const [ expandedPlayer, setExpandedPlayer ] = useState<string | null>(null);
 
@@ -69,7 +80,7 @@ export default function CandidateList({ players, totalVotes }: CandidateListProp
                                         </div>
                                         <ScrollArea className="max-h-32">
                                             <div className="flex flex-wrap gap-1.5">
-                                                {player.voters.map((voter, idx) => (
+                                                {sortVoters(player.voters).map((voter, idx) => (
                                                     <Dialog key={idx}>
                                                         <DialogTrigger asChild>
                                                             <Button variant="link" className="px-2 py-1 bg-white border border-slate-200 rounded text-xs text-slate-700 hover:cursor-pointer">{voter}</Button>

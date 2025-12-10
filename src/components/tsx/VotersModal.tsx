@@ -26,11 +26,11 @@ export default function VotersModal({ voterName, players }: VotersModalProps): J
                 <DialogTitle>{voterName}'s Ballot</DialogTitle>
                 <DialogDescription>({voterBallot.length}) vote{voterBallot.length !== 1 ? "s" : ""}</DialogDescription>
             </DialogHeader>
-             {voterBallot.map((voted, idx) => (
-                <div key={idx}>
-                    <p>{voted.name}</p>
-                </div>
-            ))}
+            <div className="grid grid-cols-2 gap-2">
+                {voterBallot.map((voted, idx) => (
+                    <p className="text-xs" key={idx}>{voted.name}</p>
+                ))}
+            </div>
         </>
     )
 }
