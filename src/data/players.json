@@ -1,5 +1,5 @@
 {
-  "totalVoters": 18,
+  "totalVoters": 19,
   "players": [
   {
     "id": 1,
@@ -14,7 +14,7 @@
     "yearsOnBallot": 4,
     "voters": ["Adam Rubin", "Aurelio Moreno", "Brian MacPherson", "Chis McCosky", "Doug Miller", "Jorge Morejón", 
     "William Ladson", "Lynn Henning", "Barry Bloom", "Michael McGarry", "Filip Bondy", "Dan Szymborski", 
-    "David Jablonski", "Octavio Sequera", "Arden Zwelling"]
+    "David Jablonski", "Octavio Sequera", "Arden Zwelling", "Peter Botte"]
   },
   {
     "id": 3,
@@ -63,7 +63,7 @@
     "name": "Félix Hernández",
     "yearsOnBallot": 2,
     "voters": ["William Ladson", "Michael McGarry", "Filip Bondy", "Brian MacPherson", "Doug Miller", "Dan Szymborski", 
-    "David Jablonski", "Octavio Sequera", "Arden Zwelling"]
+    "David Jablonski", "Octavio Sequera", "Arden Zwelling", "Peter Botte"]
   },
   {
     "id": 11,
@@ -77,7 +77,7 @@
     "yearsOnBallot": 9,
     "voters": ["Adam Rubin","Aurelio Moreno", "Brian MacPherson", "Bill Center", "Jorge Morejón", "Doug Miller", 
     "William Ladson", "Michael McGarry", "Filip Bondy", "Dan Szymborski", "David Jablonski", "Octavio Sequera", 
-    "Arden Zwelling"]
+    "Arden Zwelling", "Peter Botte"]
   },
   {
     "id": 13,
@@ -107,7 +107,7 @@
     "id": 17,
     "name": "Dustin Pedroia",
     "yearsOnBallot": 2,
-    "voters": ["Michael McGarry", "Brian MacPherson", "Dan Szymborski", "Octavio Sequera"]
+    "voters": ["Michael McGarry", "Brian MacPherson", "Dan Szymborski", "Octavio Sequera", "Peter Botte"]
   },
   {
     "id": 18,
@@ -152,14 +152,14 @@
     "id": 24,
     "name": "Jimmy Rollins",
     "yearsOnBallot": 5,
-    "voters": ["Adam Rubin", "Barry Bloom", "Michael McGarry"]
+    "voters": ["Adam Rubin", "Barry Bloom", "Michael McGarry", "Peter Botte"]
   },
   {
     "id": 25,
     "name": "Chase Utley",
     "yearsOnBallot": 3,
     "voters": ["Adam Rubin", "Barry Bloom", "Brian MacPherson", "Michael McGarry", "Dan Szymborski", "David Jablonski", 
-    "Doug Miller", "Octavio Sequera", "Arden Zwelling"]
+    "Doug Miller", "Octavio Sequera", "Arden Zwelling", "Peter Botte"]
   },
   {
     "id": 26,
@@ -171,7 +171,7 @@
     "id": 27,
     "name": "David Wright",
     "yearsOnBallot": 3,
-    "voters": ["Adam Rubin", "Annon 1", "Dan Szymborski"]
+    "voters": ["Adam Rubin", "Annon 1", "Dan Szymborski", "Peter Botte"]
   }
   ]
 }
