@@ -28,7 +28,7 @@ export default function VotersModal({ voterName, players }: VotersModalProps): J
             </DialogHeader>
             <div className="grid grid-cols-2 gap-2">
                 {voterBallot.map((voted, idx) => (
-                    <p className="text-xs" key={idx}>{voted.name}</p>
+                    <p className="text-sm" key={idx}>{voted.name}</p>
                 ))}
             </div>
         </>
