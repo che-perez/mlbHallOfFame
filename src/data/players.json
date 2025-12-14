@@ -1,12 +1,12 @@
 {
-  "totalVoters": 21,
+  "totalVoters": 22,
   "players": [
   {
     "id": 1,
     "name": "Bobby Abreu",
     "yearsOnBallot": 7,
     "voters": ["Aurelio Moreno", "Arden Zwelling", "Brian MacPherson", "Chis McCosky", "Dan Szymborski", "David Jablonski", 
-    "Doug Miller", "Octavio Sequera"]
+    "Doug Miller", "Octavio Sequera", "Robert Baum"]
   },
   {
     "id": 2,
@@ -14,7 +14,7 @@
     "yearsOnBallot": 4,
     "voters": ["Adam Rubin", "Aurelio Moreno", "Brian MacPherson", "Chis McCosky", "Doug Miller", "Jorge Morejón", 
     "William Ladson", "Lynn Henning", "Barry Bloom", "Michael McGarry", "Filip Bondy", "Dan Szymborski", 
-    "David Jablonski", "Octavio Sequera", "Arden Zwelling", "Peter Botte", "Joe Reedy"]
+    "David Jablonski", "Octavio Sequera", "Arden Zwelling", "Peter Botte", "Joe Reedy", "Robert Baum"]
   },
   {
     "id": 3,
@@ -77,7 +77,7 @@
     "yearsOnBallot": 9,
     "voters": ["Adam Rubin","Aurelio Moreno", "Brian MacPherson", "Bill Center", "Jorge Morejón", "Doug Miller", 
     "William Ladson", "Michael McGarry", "Filip Bondy", "Dan Szymborski", "David Jablonski", "Octavio Sequera", 
-    "Arden Zwelling", "Peter Botte", "Joe Reedy", "David Skretta"]
+    "Arden Zwelling", "Peter Botte", "Joe Reedy", "David Skretta", "Robert Baum"]
   },
   {
     "id": 13,
@@ -159,7 +159,7 @@
     "name": "Chase Utley",
     "yearsOnBallot": 3,
     "voters": ["Adam Rubin", "Barry Bloom", "Brian MacPherson", "Michael McGarry", "Dan Szymborski", "David Jablonski", 
-    "Doug Miller", "Octavio Sequera", "Arden Zwelling", "Peter Botte", "Joe Reedy", "David Skretta"]
+    "Doug Miller", "Octavio Sequera", "Arden Zwelling", "Peter Botte", "Joe Reedy", "David Skretta", "Robert Baum"]
   },
   {
     "id": 26,
