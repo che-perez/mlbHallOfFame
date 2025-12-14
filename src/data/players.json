@@ -1,5 +1,5 @@
 {
-  "totalVoters": 22,
+  "totalVoters": 23,
   "players": [
   {
     "id": 1,
@@ -14,7 +14,7 @@
     "yearsOnBallot": 4,
     "voters": ["Adam Rubin", "Aurelio Moreno", "Brian MacPherson", "Chis McCosky", "Doug Miller", "Jorge Morejón", 
     "William Ladson", "Lynn Henning", "Barry Bloom", "Michael McGarry", "Filip Bondy", "Dan Szymborski", 
-    "David Jablonski", "Octavio Sequera", "Arden Zwelling", "Peter Botte", "Joe Reedy", "Robert Baum"]
+    "David Jablonski", "Octavio Sequera", "Arden Zwelling", "Peter Botte", "Joe Reedy", "Robert Baum", "Juan Vené"]
   },
   {
     "id": 3,
@@ -77,7 +77,7 @@
     "yearsOnBallot": 9,
     "voters": ["Adam Rubin","Aurelio Moreno", "Brian MacPherson", "Bill Center", "Jorge Morejón", "Doug Miller", 
     "William Ladson", "Michael McGarry", "Filip Bondy", "Dan Szymborski", "David Jablonski", "Octavio Sequera", 
-    "Arden Zwelling", "Peter Botte", "Joe Reedy", "David Skretta", "Robert Baum"]
+    "Arden Zwelling", "Peter Botte", "Joe Reedy", "David Skretta", "Robert Baum", "Juan Vené"]
   },
   {
     "id": 13,
@@ -120,7 +120,7 @@
     "name": "Andy Pettitte",
     "yearsOnBallot": 8,
     "voters": ["Jorge Morejón", "Chis McCosky", "Doug Miller", "William Ladson", "Barry Bloom", "Brian MacPherson", 
-    "Michael McGarry", "Filip Bondy", "Dan Szymborski", "David Jablonski", "Arden Zwelling", "Joe Reedy"]
+    "Michael McGarry", "Filip Bondy", "Dan Szymborski", "David Jablonski", "Arden Zwelling", "Joe Reedy", "Juan Vené"]
   },
   {
     "id": 20,
