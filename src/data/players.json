@@ -1,5 +1,5 @@
 {
-  "totalVoters": 27,
+  "totalVoters": 28,
   "players": [
   {
     "id": 1,
@@ -158,7 +158,7 @@
     "id": 24,
     "name": "Jimmy Rollins",
     "yearsOnBallot": 5,
-    "voters": ["Adam Rubin", "Barry Bloom", "Michael McGarry", "Peter Botte", "Anthony Andro", "Mark Newman"]
+    "voters": ["Adam Rubin", "Barry Bloom", "Michael McGarry", "Peter Botte", "Anthony Andro", "Mark Newman", "Dan Gelston"]
   },
   {
     "id": 25,
@@ -166,7 +166,7 @@
     "yearsOnBallot": 3,
     "voters": ["Adam Rubin", "Barry Bloom", "Brian MacPherson", "Michael McGarry", "Dan Szymborski", "David Jablonski", 
     "Doug Miller", "Octavio Sequera", "Arden Zwelling", "Peter Botte", "Joe Reedy", "David Skretta", "Robert Baum", "Anthony Andro", 
-    "Mark Newman", "Chris Assenheimer"]
+    "Mark Newman", "Chris Assenheimer", "Dan Gelston"]
   },
   {
     "id": 26,
