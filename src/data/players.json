@@ -1,12 +1,12 @@
 {
-  "totalVoters": 30,
+  "totalVoters": 33,
   "players": [
     {
       "id": 1,
       "name": "Bobby Abreu",
       "yearsOnBallot": 7,
       "voters": ["Aurelio Moreno", "Arden Zwelling", "Brian MacPherson", "Chis McCosky", "Dan Szymborski", "David Jablonski", 
-      "Doug Miller", "Octavio Sequera", "Robert Baum", "Anthony Andro", "Maury Brown"]
+      "Doug Miller", "Octavio Sequera", "Robert Baum", "Anthony Andro", "Maury Brown", "Meghan Montemurro", "Enrique Rojas"]
     },
     {
       "id": 2,
@@ -14,8 +14,9 @@
       "yearsOnBallot": 4,
       "voters": ["Adam Rubin", "Aurelio Moreno", "Brian MacPherson", "Chis McCosky", "Doug Miller", "Jorge Morejón", 
       "William Ladson", "Lynn Henning", "Barry Bloom", "Michael McGarry", "Filip Bondy", "Dan Szymborski", 
-      "David Jablonski", "Octavio Sequera", "Arden Zwelling", "Peter Botte", "Joe Reedy", "Robert Baum", "Juan Vené", "Maury Brown", 
-      "Mark Newman", "Chris Assenheimer", "Kevin Cooney"]
+      "David Jablonski", "Octavio Sequera", "Arden Zwelling", "Peter Botte", "Joe Reedy", "Robert Baum", "Juan Vené", 
+      "Maury Brown", "Mark Newman", "Chris Assenheimer", "Kevin Cooney", "Will Graves", "Meghan Montemurro", 
+      "Enrique Rojas"]
     },
     {
       "id": 3,
@@ -28,7 +29,7 @@
       "name": "Mark Buehrle",
       "yearsOnBallot": 6,
       "voters": ["William Ladson", "Filip Bondy", "Brian MacPherson", "Dan Szymborski", "David Jablonski", "Arden Zwelling", 
-      "David Haugh"]
+      "David Haugh", "Meghan Montemurro"]
     },
     {
       "id": 5,
@@ -59,7 +60,7 @@
       "name": "Cole Hamels",
       "yearsOnBallot": 1,
       "voters": ["Michael McGarry", "Brian MacPherson", "Dan Szymborski", "Doug Miller", "Arden Zwelling", "Joe Reedy", "Maury Brown", 
-      "Mark Newman"]
+      "Mark Newman", "Meghan Montemurro"]
     },
     {
       "id": 10,
@@ -67,7 +68,7 @@
       "yearsOnBallot": 2,
       "voters": ["William Ladson", "Michael McGarry", "Filip Bondy", "Brian MacPherson", "Doug Miller", "Dan Szymborski", 
       "David Jablonski", "Octavio Sequera", "Arden Zwelling", "Peter Botte", "Joe Reedy", "Maury Brown", "Mark Newman", 
-      "Chris Assenheimer", "David Haugh"]
+      "Chris Assenheimer", "David Haugh", "Meghan Montemurro", "Enrique Rojas"]
     },
     {
       "id": 11,
@@ -82,7 +83,8 @@
       "voters": ["Adam Rubin","Aurelio Moreno", "Brian MacPherson", "Bill Center", "Jorge Morejón", "Doug Miller", 
       "William Ladson", "Michael McGarry", "Filip Bondy", "Dan Szymborski", "David Jablonski", "Octavio Sequera", 
       "Arden Zwelling", "Peter Botte", "Joe Reedy", "David Skretta", "Robert Baum", "Juan Vené", "Anthony Andro", 
-      "Mark Newman", "Chris Assenheimer", "Kevin Cooney", "David Haugh"]
+      "Mark Newman", "Chris Assenheimer", "Kevin Cooney", "David Haugh", "Will Graves", "Meghan Montemurro", 
+      "Enrique Rojas"]
     },
     {
       "id": 13,
@@ -113,7 +115,7 @@
       "name": "Dustin Pedroia",
       "yearsOnBallot": 2,
       "voters": ["Michael McGarry", "Brian MacPherson", "Dan Szymborski", "Octavio Sequera", "Peter Botte", "Anthony Andro", 
-      "Mark Newman", "Chris Assenheimer", "Kevin Cooney"]
+      "Mark Newman", "Chris Assenheimer", "Kevin Cooney", "Meghan Montemurro"]
     },
     {
       "id": 18,
@@ -127,7 +129,7 @@
       "yearsOnBallot": 8,
       "voters": ["Jorge Morejón", "Chis McCosky", "Doug Miller", "William Ladson", "Barry Bloom", "Brian MacPherson", 
       "Michael McGarry", "Filip Bondy", "Dan Szymborski", "David Jablonski", "Arden Zwelling", "Joe Reedy", "Juan Vené", 
-      "Mark Newman", "Kevin Cooney"]
+      "Mark Newman", "Kevin Cooney", "Meghan Montemurro"]
     },
     {
       "id": 20,
@@ -140,14 +142,15 @@
       "name": "Manny Ramirez",
       "yearsOnBallot": 10,
       "voters": ["Adam Rubin", "Michael McGarry", "Chis McCosky", "Filip Bondy", "David Jablonski", "Doug Miller", 
-      "Arden Zwelling", "Joe Reedy", "Mark Newman", "Chris Assenheimer"]
+      "Arden Zwelling", "Joe Reedy", "Mark Newman", "Chris Assenheimer", "Enrique Rojas"]
     },
     {
       "id": 22,
       "name": "Alex Rodríguez",
       "yearsOnBallot": 5,
       "voters": ["Adam Rubin","Lynn Henning", "Barry Bloom", "Brian MacPherson", "Chis McCosky", "Doug Miller", 
-      "Michael McGarry", "Filip Bondy", "David Jablonski", "Arden Zwelling", "Joe Reedy", "Mark Newman", "Chris Assenheimer"]
+      "Michael McGarry", "Filip Bondy", "David Jablonski", "Arden Zwelling", "Joe Reedy", "Mark Newman", "Chris Assenheimer", 
+      "Enrique Rojas"]
     },
     {
       "id": 23,
@@ -160,7 +163,7 @@
       "name": "Jimmy Rollins",
       "yearsOnBallot": 5,
       "voters": ["Adam Rubin", "Barry Bloom", "Michael McGarry", "Peter Botte", "Anthony Andro", "Mark Newman", "Dan Gelston", 
-      "Kevin Cooney"]
+      "Kevin Cooney", "Meghan Montemurro"]
     },
     {
       "id": 25,
@@ -168,13 +171,14 @@
       "yearsOnBallot": 3,
       "voters": ["Adam Rubin", "Barry Bloom", "Brian MacPherson", "Michael McGarry", "Dan Szymborski", "David Jablonski", 
       "Doug Miller", "Octavio Sequera", "Arden Zwelling", "Peter Botte", "Joe Reedy", "David Skretta", "Robert Baum", "Anthony Andro", 
-      "Mark Newman", "Chris Assenheimer", "Dan Gelston", "Kevin Cooney"]
+      "Mark Newman", "Chris Assenheimer", "Dan Gelston", "Kevin Cooney", "Meghan Montemurro"]
     },
     {
       "id": 26,
       "name": "Omar Vizquel",
       "yearsOnBallot": 9,
-      "voters": ["Aurelio Moreno", "Jorge Morejón", "Filip Bondy", "Doug Miller", "Octavio Sequera", "Joe Reedy", "Chris Assenheimer"]
+      "voters": ["Aurelio Moreno", "Jorge Morejón", "Filip Bondy", "Doug Miller", "Octavio Sequera", "Joe Reedy", "Chris Assenheimer", 
+      "Enrique Rojas"]
     },
     {
       "id": 27,
