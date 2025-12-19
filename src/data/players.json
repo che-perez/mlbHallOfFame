@@ -1,5 +1,5 @@
 {
-  "totalVoters": 29,
+  "totalVoters": 30,
   "players": [
     {
       "id": 1,
@@ -27,7 +27,8 @@
       "id": 4,
       "name": "Mark Buehrle",
       "yearsOnBallot": 6,
-      "voters": ["William Ladson", "Filip Bondy", "Brian MacPherson", "Dan Szymborski", "David Jablonski", "Arden Zwelling"]
+      "voters": ["William Ladson", "Filip Bondy", "Brian MacPherson", "Dan Szymborski", "David Jablonski", "Arden Zwelling", 
+      "David Haugh"]
     },
     {
       "id": 5,
@@ -66,7 +67,7 @@
       "yearsOnBallot": 2,
       "voters": ["William Ladson", "Michael McGarry", "Filip Bondy", "Brian MacPherson", "Doug Miller", "Dan Szymborski", 
       "David Jablonski", "Octavio Sequera", "Arden Zwelling", "Peter Botte", "Joe Reedy", "Maury Brown", "Mark Newman", 
-      "Chris Assenheimer"]
+      "Chris Assenheimer", "David Haugh"]
     },
     {
       "id": 11,
@@ -81,7 +82,7 @@
       "voters": ["Adam Rubin","Aurelio Moreno", "Brian MacPherson", "Bill Center", "Jorge Morejón", "Doug Miller", 
       "William Ladson", "Michael McGarry", "Filip Bondy", "Dan Szymborski", "David Jablonski", "Octavio Sequera", 
       "Arden Zwelling", "Peter Botte", "Joe Reedy", "David Skretta", "Robert Baum", "Juan Vené", "Anthony Andro", 
-      "Mark Newman", "Chris Assenheimer", "Kevin Cooney"]
+      "Mark Newman", "Chris Assenheimer", "Kevin Cooney", "David Haugh"]
     },
     {
       "id": 13,
