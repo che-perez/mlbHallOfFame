@@ -1,12 +1,13 @@
 {
-  "totalVoters": 33,
+  "totalVoters": 34,
   "players": [
     {
       "id": 1,
       "name": "Bobby Abreu",
       "yearsOnBallot": 7,
       "voters": ["Aurelio Moreno", "Arden Zwelling", "Brian MacPherson", "Chis McCosky", "Dan Szymborski", "David Jablonski", 
-      "Doug Miller", "Octavio Sequera", "Robert Baum", "Anthony Andro", "Maury Brown", "Meghan Montemurro", "Enrique Rojas"]
+      "Doug Miller", "Octavio Sequera", "Robert Baum", "Anthony Andro", "Maury Brown", "Meghan Montemurro", "Enrique Rojas", 
+      "Larry Fleisher"]
     },
     {
       "id": 2,
@@ -16,7 +17,7 @@
       "William Ladson", "Lynn Henning", "Barry Bloom", "Michael McGarry", "Filip Bondy", "Dan Szymborski", 
       "David Jablonski", "Octavio Sequera", "Arden Zwelling", "Peter Botte", "Joe Reedy", "Robert Baum", "Juan Vené", 
       "Maury Brown", "Mark Newman", "Chris Assenheimer", "Kevin Cooney", "Will Graves", "Meghan Montemurro", 
-      "Enrique Rojas"]
+      "Enrique Rojas", "Larry Fleisher"]
     },
     {
       "id": 3,
@@ -29,7 +30,7 @@
       "name": "Mark Buehrle",
       "yearsOnBallot": 6,
       "voters": ["William Ladson", "Filip Bondy", "Brian MacPherson", "Dan Szymborski", "David Jablonski", "Arden Zwelling", 
-      "David Haugh", "Meghan Montemurro"]
+      "David Haugh", "Meghan Montemurro", "Larry Fleisher"]
     },
     {
       "id": 5,
@@ -68,7 +69,7 @@
       "yearsOnBallot": 2,
       "voters": ["William Ladson", "Michael McGarry", "Filip Bondy", "Brian MacPherson", "Doug Miller", "Dan Szymborski", 
       "David Jablonski", "Octavio Sequera", "Arden Zwelling", "Peter Botte", "Joe Reedy", "Maury Brown", "Mark Newman", 
-      "Chris Assenheimer", "David Haugh", "Meghan Montemurro", "Enrique Rojas"]
+      "Chris Assenheimer", "David Haugh", "Meghan Montemurro", "Enrique Rojas", "Larry Fleisher"]
     },
     {
       "id": 11,
@@ -84,7 +85,7 @@
       "William Ladson", "Michael McGarry", "Filip Bondy", "Dan Szymborski", "David Jablonski", "Octavio Sequera", 
       "Arden Zwelling", "Peter Botte", "Joe Reedy", "David Skretta", "Robert Baum", "Juan Vené", "Anthony Andro", 
       "Mark Newman", "Chris Assenheimer", "Kevin Cooney", "David Haugh", "Will Graves", "Meghan Montemurro", 
-      "Enrique Rojas"]
+      "Enrique Rojas", "Larry Fleisher"]
     },
     {
       "id": 13,
@@ -129,7 +130,7 @@
       "yearsOnBallot": 8,
       "voters": ["Jorge Morejón", "Chis McCosky", "Doug Miller", "William Ladson", "Barry Bloom", "Brian MacPherson", 
       "Michael McGarry", "Filip Bondy", "Dan Szymborski", "David Jablonski", "Arden Zwelling", "Joe Reedy", "Juan Vené", 
-      "Mark Newman", "Kevin Cooney", "Meghan Montemurro"]
+      "Mark Newman", "Kevin Cooney", "Meghan Montemurro", "Larry Fleisher"]
     },
     {
       "id": 20,
@@ -156,14 +157,14 @@
       "id": 23,
       "name": "Francisco Rodríguez",
       "yearsOnBallot": 4,
-      "voters": ["Jorge Morejón", "Filip Bondy", "Octavio Sequera", "Chris Assenheimer", "Kevin Cooney"]
+      "voters": ["Jorge Morejón", "Filip Bondy", "Octavio Sequera", "Chris Assenheimer", "Kevin Cooney", "Larry Fleisher"]
     },
     {
       "id": 24,
       "name": "Jimmy Rollins",
       "yearsOnBallot": 5,
       "voters": ["Adam Rubin", "Barry Bloom", "Michael McGarry", "Peter Botte", "Anthony Andro", "Mark Newman", "Dan Gelston", 
-      "Kevin Cooney", "Meghan Montemurro"]
+      "Kevin Cooney", "Meghan Montemurro", "Larry Fleisher"]
     },
     {
       "id": 25,
@@ -171,7 +172,7 @@
       "yearsOnBallot": 3,
       "voters": ["Adam Rubin", "Barry Bloom", "Brian MacPherson", "Michael McGarry", "Dan Szymborski", "David Jablonski", 
       "Doug Miller", "Octavio Sequera", "Arden Zwelling", "Peter Botte", "Joe Reedy", "David Skretta", "Robert Baum", "Anthony Andro", 
-      "Mark Newman", "Chris Assenheimer", "Dan Gelston", "Kevin Cooney", "Meghan Montemurro"]
+      "Mark Newman", "Chris Assenheimer", "Dan Gelston", "Kevin Cooney", "Meghan Montemurro", "Larry Fleisher"]
     },
     {
       "id": 26,
@@ -184,7 +185,7 @@
       "id": 27,
       "name": "David Wright",
       "yearsOnBallot": 3,
-      "voters": ["Adam Rubin", "Annon 1", "Dan Szymborski", "Peter Botte", "Kevin Cooney"]
+      "voters": ["Adam Rubin", "Annon 1", "Dan Szymborski", "Peter Botte", "Kevin Cooney", "Larry Fleisher"]
     }
   ]
 }
