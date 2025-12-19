@@ -27,3 +27,5 @@ Thumbs.db
 
 # Vite specific
 .vite/
+
+package-lock.json
