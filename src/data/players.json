@@ -1,5 +1,5 @@
 {
-  "totalVoters": 36,
+  "totalVoters": 45,
   "players": [
     {
       "id": 1,
@@ -7,7 +7,7 @@
       "yearsOnBallot": 7,
       "voters": ["Aurelio Moreno", "Arden Zwelling", "Brian MacPherson", "Chis McCosky", "Dan Szymborski", "David Jablonski", 
       "Doug Miller", "Octavio Sequera", "Robert Baum", "Anthony Andro", "Maury Brown", "Meghan Montemurro", "Enrique Rojas", 
-      "Larry Fleisher", "Sean Forman"]
+      "Larry Fleisher", "Sean Forman", "José de Jesus Ortiz", "Sadiel Lebron", "Larry Stone", "Patrick Graham"]
     },
     {
       "id": 2,
@@ -17,7 +17,8 @@
       "William Ladson", "Lynn Henning", "Barry Bloom", "Michael McGarry", "Filip Bondy", "Dan Szymborski", 
       "David Jablonski", "Octavio Sequera", "Arden Zwelling", "Peter Botte", "Joe Reedy", "Robert Baum", "Juan Vené", 
       "Maury Brown", "Mark Newman", "Chris Assenheimer", "Kevin Cooney", "Will Graves", "Meghan Montemurro", 
-      "Enrique Rojas", "Larry Fleisher", "Sean Forman"]
+      "Enrique Rojas", "Larry Fleisher", "Sean Forman", "José de Jesus Ortiz", "Sadiel Lebron", "Larry Stone", "Patrick Graham", 
+      "Bruce Miles", "Scott Merkin", "Mark Faller"]
     },
     {
       "id": 3,
@@ -30,7 +31,7 @@
       "name": "Mark Buehrle",
       "yearsOnBallot": 6,
       "voters": ["William Ladson", "Filip Bondy", "Brian MacPherson", "Dan Szymborski", "David Jablonski", "Arden Zwelling", 
-      "David Haugh", "Meghan Montemurro", "Larry Fleisher", "Sean Forman"]
+      "David Haugh", "Meghan Montemurro", "Larry Fleisher", "Sean Forman", "Sadiel Lebron", "Bruce Miles", "Scott Merkin"]
     },
     {
       "id": 5,
@@ -42,7 +43,7 @@
       "id": 6,
       "name": "Edwin Encarnación",
       "yearsOnBallot": 1,
-      "voters": []
+      "voters": ["Sadiel Lebron"]
     },
     {
       "id": 7,
@@ -61,7 +62,7 @@
       "name": "Cole Hamels",
       "yearsOnBallot": 1,
       "voters": ["Michael McGarry", "Brian MacPherson", "Dan Szymborski", "Doug Miller", "Arden Zwelling", "Joe Reedy", "Maury Brown", 
-      "Mark Newman", "Meghan Montemurro", "Sean Forman"]
+      "Mark Newman", "Meghan Montemurro", "Sean Forman", "José de Jesus Ortiz", "Larry Stone", "Bruce Miles", "Mark Faller"]
     },
     {
       "id": 10,
@@ -69,7 +70,8 @@
       "yearsOnBallot": 2,
       "voters": ["William Ladson", "Michael McGarry", "Filip Bondy", "Brian MacPherson", "Doug Miller", "Dan Szymborski", 
       "David Jablonski", "Octavio Sequera", "Arden Zwelling", "Peter Botte", "Joe Reedy", "Maury Brown", "Mark Newman", 
-      "Chris Assenheimer", "David Haugh", "Meghan Montemurro", "Enrique Rojas", "Larry Fleisher", "Sean Forman"]
+      "Chris Assenheimer", "David Haugh", "Meghan Montemurro", "Enrique Rojas", "Larry Fleisher", "Sean Forman", 
+      "José de Jesus Ortiz", "Sadiel Lebron", "Larry Stone", "Patrick Graham", "Bruce Miles", "Scott Merkin", "Mark Faller"]
     },
     {
       "id": 11,
@@ -85,7 +87,8 @@
       "William Ladson", "Michael McGarry", "Filip Bondy", "Dan Szymborski", "David Jablonski", "Octavio Sequera", 
       "Arden Zwelling", "Peter Botte", "Joe Reedy", "David Skretta", "Robert Baum", "Juan Vené", "Anthony Andro", 
       "Mark Newman", "Chris Assenheimer", "Kevin Cooney", "David Haugh", "Will Graves", "Meghan Montemurro", 
-      "Enrique Rojas", "Larry Fleisher", "Sean Forman"]
+      "Enrique Rojas", "Larry Fleisher", "Sean Forman", "José de Jesus Ortiz", "Sadiel Lebron", "Larry Stone", 
+      "Patrick Graham", "Bruce Miles", "Scott Merkin", "Mark Faller"]
     },
     {
       "id": 13,
@@ -116,13 +119,13 @@
       "name": "Dustin Pedroia",
       "yearsOnBallot": 2,
       "voters": ["Michael McGarry", "Brian MacPherson", "Dan Szymborski", "Octavio Sequera", "Peter Botte", "Anthony Andro", 
-      "Mark Newman", "Chris Assenheimer", "Kevin Cooney", "Meghan Montemurro", "Sean Forman"]
+      "Mark Newman", "Chris Assenheimer", "Kevin Cooney", "Meghan Montemurro", "Sean Forman", "Scott Merkin"]
     },
     {
       "id": 18,
       "name": "Hunter Pence",
       "yearsOnBallot": 1,
-      "voters": []
+      "voters": ["José de Jesus Ortiz"]
     },
     {
       "id": 19,
@@ -130,7 +133,8 @@
       "yearsOnBallot": 8,
       "voters": ["Jorge Morejón", "Chis McCosky", "Doug Miller", "William Ladson", "Barry Bloom", "Brian MacPherson", 
       "Michael McGarry", "Filip Bondy", "Dan Szymborski", "David Jablonski", "Arden Zwelling", "Joe Reedy", "Juan Vené", 
-      "Mark Newman", "Kevin Cooney", "Meghan Montemurro", "Larry Fleisher"]
+      "Mark Newman", "Kevin Cooney", "Meghan Montemurro", "Larry Fleisher", "José de Jesus Ortiz", "Sadiel Lebron", "Larry Stone", 
+      "Patrick Graham", "Bruce Miles", "Scott Merkin", "Mark Faller"]
     },
     {
       "id": 20,
@@ -143,7 +147,8 @@
       "name": "Manny Ramirez",
       "yearsOnBallot": 10,
       "voters": ["Adam Rubin", "Michael McGarry", "Chis McCosky", "Filip Bondy", "David Jablonski", "Doug Miller", 
-      "Arden Zwelling", "Joe Reedy", "Mark Newman", "Chris Assenheimer", "Enrique Rojas", "Sean Forman"]
+      "Arden Zwelling", "Joe Reedy", "Mark Newman", "Chris Assenheimer", "Enrique Rojas", "Sean Forman", "Bill Ballou", 
+      "Alan Greenwood", "Patrick Graham", "Bruce Miles", "Scott Merkin"]
     },
     {
       "id": 22,
@@ -151,41 +156,45 @@
       "yearsOnBallot": 5,
       "voters": ["Adam Rubin","Lynn Henning", "Barry Bloom", "Brian MacPherson", "Chis McCosky", "Doug Miller", 
       "Michael McGarry", "Filip Bondy", "David Jablonski", "Arden Zwelling", "Joe Reedy", "Mark Newman", "Chris Assenheimer", 
-      "Enrique Rojas", "Sean Forman"]
+      "Enrique Rojas", "Sean Forman", "Bill Ballou", "Alan Greenwood", "Patrick Graham", "Bruce Miles", "Scott Merkin"]
     },
     {
       "id": 23,
       "name": "Francisco Rodríguez",
       "yearsOnBallot": 4,
-      "voters": ["Jorge Morejón", "Filip Bondy", "Octavio Sequera", "Chris Assenheimer", "Kevin Cooney", "Larry Fleisher"]
+      "voters": ["Jorge Morejón", "Filip Bondy", "Octavio Sequera", "Chris Assenheimer", "Kevin Cooney", "Larry Fleisher", 
+      "Sadiel Lebron"]
     },
     {
       "id": 24,
       "name": "Jimmy Rollins",
       "yearsOnBallot": 5,
       "voters": ["Adam Rubin", "Barry Bloom", "Michael McGarry", "Peter Botte", "Anthony Andro", "Mark Newman", "Dan Gelston", 
-      "Kevin Cooney", "Meghan Montemurro", "Larry Fleisher"]
+      "Kevin Cooney", "Meghan Montemurro", "Larry Fleisher", "José de Jesus Ortiz", "Patrick Graham"]
     },
     {
       "id": 25,
       "name": "Chase Utley",
       "yearsOnBallot": 3,
       "voters": ["Adam Rubin", "Barry Bloom", "Brian MacPherson", "Michael McGarry", "Dan Szymborski", "David Jablonski", 
-      "Doug Miller", "Octavio Sequera", "Arden Zwelling", "Peter Botte", "Joe Reedy", "David Skretta", "Robert Baum", "Anthony Andro", 
-      "Mark Newman", "Chris Assenheimer", "Dan Gelston", "Kevin Cooney", "Meghan Montemurro", "Larry Fleisher", "Sean Forman"]
+      "Doug Miller", "Octavio Sequera", "Arden Zwelling", "Peter Botte", "Joe Reedy", "David Skretta", "Robert Baum", 
+      "Anthony Andro", "Mark Newman", "Chris Assenheimer", "Dan Gelston", "Kevin Cooney", "Meghan Montemurro", "Larry Fleisher", 
+      "Sean Forman", "José de Jesus Ortiz", "Sadiel Lebron", "Larry Stone", "Patrick Graham", "Bruce Miles", "Scott Merkin", 
+      "Mark Faller"]
     },
     {
       "id": 26,
       "name": "Omar Vizquel",
       "yearsOnBallot": 9,
       "voters": ["Aurelio Moreno", "Jorge Morejón", "Filip Bondy", "Doug Miller", "Octavio Sequera", "Joe Reedy", "Chris Assenheimer", 
-      "Enrique Rojas"]
+      "Enrique Rojas", "Sadiel Lebron", "Patrick Graham"]
     },
     {
       "id": 27,
       "name": "David Wright",
       "yearsOnBallot": 3,
-      "voters": ["Adam Rubin", "Annon 1", "Dan Szymborski", "Peter Botte", "Kevin Cooney", "Larry Fleisher"]
+      "voters": ["Adam Rubin", "Annon 1", "Dan Szymborski", "Peter Botte", "Kevin Cooney", "Larry Fleisher", "José de Jesus Ortiz", 
+      "Bruce Miles"]
     }
   ]
 }
