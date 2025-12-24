@@ -1,5 +1,5 @@
 {
-  "totalVoters": 46,
+  "totalVoters": 47,
   "players": [
     {
       "id": 1,
@@ -18,7 +18,7 @@
       "David Jablonski", "Octavio Sequera", "Arden Zwelling", "Peter Botte", "Joe Reedy", "Robert Baum", "Juan Vené", 
       "Maury Brown", "Mark Newman", "Chris Assenheimer", "Kevin Cooney", "Will Graves", "Meghan Montemurro", 
       "Enrique Rojas", "Larry Fleisher", "Sean Forman", "José de Jesus Ortiz", "Sadiel Lebron", "Larry Stone", "Patrick Graham", 
-      "Bruce Miles", "Scott Merkin", "Mark Faller", "Josh Dubow"]
+      "Bruce Miles", "Scott Merkin", "Mark Faller", "Josh Dubow", "Kevin Kernan"]
     },
     {
       "id": 3,
@@ -62,7 +62,7 @@
       "name": "Cole Hamels",
       "yearsOnBallot": 1,
       "voters": ["Michael McGarry", "Brian MacPherson", "Dan Szymborski", "Doug Miller", "Arden Zwelling", "Joe Reedy", "Maury Brown", 
-      "Mark Newman", "Meghan Montemurro", "Sean Forman", "José de Jesus Ortiz", "Larry Stone", "Bruce Miles", "Mark Faller"]
+      "Mark Newman", "Meghan Montemurro", "Sean Forman", "José de Jesus Ortiz", "Larry Stone", "Bruce Miles", "Mark Faller", "Kevin Kernan"]
     },
     {
       "id": 10,
@@ -88,7 +88,7 @@
       "Arden Zwelling", "Peter Botte", "Joe Reedy", "David Skretta", "Robert Baum", "Juan Vené", "Anthony Andro", 
       "Mark Newman", "Chris Assenheimer", "Kevin Cooney", "David Haugh", "Will Graves", "Meghan Montemurro", 
       "Enrique Rojas", "Larry Fleisher", "Sean Forman", "José de Jesus Ortiz", "Sadiel Lebron", "Larry Stone", 
-      "Patrick Graham", "Bruce Miles", "Scott Merkin", "Mark Faller", "Josh Dubow"]
+      "Patrick Graham", "Bruce Miles", "Scott Merkin", "Mark Faller", "Josh Dubow", "Kevin Kernan"]
     },
     {
       "id": 13,
@@ -134,7 +134,7 @@
       "voters": ["Jorge Morejón", "Chis McCosky", "Doug Miller", "William Ladson", "Barry Bloom", "Brian MacPherson", 
       "Michael McGarry", "Filip Bondy", "Dan Szymborski", "David Jablonski", "Arden Zwelling", "Joe Reedy", "Juan Vené", 
       "Mark Newman", "Kevin Cooney", "Meghan Montemurro", "Larry Fleisher", "José de Jesus Ortiz", "Sadiel Lebron", "Larry Stone", 
-      "Patrick Graham", "Bruce Miles", "Scott Merkin", "Mark Faller"]
+      "Patrick Graham", "Bruce Miles", "Scott Merkin", "Mark Faller", "Kevin Kernan"]
     },
     {
       "id": 20,
@@ -148,7 +148,7 @@
       "yearsOnBallot": 10,
       "voters": ["Adam Rubin", "Michael McGarry", "Chis McCosky", "Filip Bondy", "David Jablonski", "Doug Miller", 
       "Arden Zwelling", "Joe Reedy", "Mark Newman", "Chris Assenheimer", "Enrique Rojas", "Sean Forman", "Bill Ballou", 
-      "Alan Greenwood", "Patrick Graham", "Bruce Miles", "Scott Merkin", "Josh Dubow"]
+      "Alan Greenwood", "Patrick Graham", "Bruce Miles", "Scott Merkin", "Josh Dubow", "Kevin Kernan"]
     },
     {
       "id": 22,
@@ -156,7 +156,8 @@
       "yearsOnBallot": 5,
       "voters": ["Adam Rubin","Lynn Henning", "Barry Bloom", "Brian MacPherson", "Chis McCosky", "Doug Miller", 
       "Michael McGarry", "Filip Bondy", "David Jablonski", "Arden Zwelling", "Joe Reedy", "Mark Newman", "Chris Assenheimer", 
-      "Enrique Rojas", "Sean Forman", "Bill Ballou", "Alan Greenwood", "Patrick Graham", "Bruce Miles", "Scott Merkin", "Josh Dubow"]
+      "Enrique Rojas", "Sean Forman", "Bill Ballou", "Alan Greenwood", "Patrick Graham", "Bruce Miles", "Scott Merkin", "Josh Dubow", 
+      "Kevin Kernan"]
     },
     {
       "id": 23,
@@ -170,7 +171,7 @@
       "name": "Jimmy Rollins",
       "yearsOnBallot": 5,
       "voters": ["Adam Rubin", "Barry Bloom", "Michael McGarry", "Peter Botte", "Anthony Andro", "Mark Newman", "Dan Gelston", 
-      "Kevin Cooney", "Meghan Montemurro", "Larry Fleisher", "José de Jesus Ortiz", "Patrick Graham"]
+      "Kevin Cooney", "Meghan Montemurro", "Larry Fleisher", "José de Jesus Ortiz", "Patrick Graham", "Kevin Kernan"]
     },
     {
       "id": 25,
@@ -187,7 +188,7 @@
       "name": "Omar Vizquel",
       "yearsOnBallot": 9,
       "voters": ["Aurelio Moreno", "Jorge Morejón", "Filip Bondy", "Doug Miller", "Octavio Sequera", "Joe Reedy", "Chris Assenheimer", 
-      "Enrique Rojas", "Sadiel Lebron", "Patrick Graham"]
+      "Enrique Rojas", "Sadiel Lebron", "Patrick Graham", "Kevin Kernan"]
     },
     {
       "id": 27,
