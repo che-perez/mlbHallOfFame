@@ -1,5 +1,5 @@
 {
-  "totalVoters": 45,
+  "totalVoters": 46,
   "players": [
     {
       "id": 1,
@@ -18,7 +18,7 @@
       "David Jablonski", "Octavio Sequera", "Arden Zwelling", "Peter Botte", "Joe Reedy", "Robert Baum", "Juan Vené", 
       "Maury Brown", "Mark Newman", "Chris Assenheimer", "Kevin Cooney", "Will Graves", "Meghan Montemurro", 
       "Enrique Rojas", "Larry Fleisher", "Sean Forman", "José de Jesus Ortiz", "Sadiel Lebron", "Larry Stone", "Patrick Graham", 
-      "Bruce Miles", "Scott Merkin", "Mark Faller"]
+      "Bruce Miles", "Scott Merkin", "Mark Faller", "Josh Dubow"]
     },
     {
       "id": 3,
@@ -88,7 +88,7 @@
       "Arden Zwelling", "Peter Botte", "Joe Reedy", "David Skretta", "Robert Baum", "Juan Vené", "Anthony Andro", 
       "Mark Newman", "Chris Assenheimer", "Kevin Cooney", "David Haugh", "Will Graves", "Meghan Montemurro", 
       "Enrique Rojas", "Larry Fleisher", "Sean Forman", "José de Jesus Ortiz", "Sadiel Lebron", "Larry Stone", 
-      "Patrick Graham", "Bruce Miles", "Scott Merkin", "Mark Faller"]
+      "Patrick Graham", "Bruce Miles", "Scott Merkin", "Mark Faller", "Josh Dubow"]
     },
     {
       "id": 13,
@@ -148,7 +148,7 @@
       "yearsOnBallot": 10,
       "voters": ["Adam Rubin", "Michael McGarry", "Chis McCosky", "Filip Bondy", "David Jablonski", "Doug Miller", 
       "Arden Zwelling", "Joe Reedy", "Mark Newman", "Chris Assenheimer", "Enrique Rojas", "Sean Forman", "Bill Ballou", 
-      "Alan Greenwood", "Patrick Graham", "Bruce Miles", "Scott Merkin"]
+      "Alan Greenwood", "Patrick Graham", "Bruce Miles", "Scott Merkin", "Josh Dubow"]
     },
     {
       "id": 22,
@@ -156,7 +156,7 @@
       "yearsOnBallot": 5,
       "voters": ["Adam Rubin","Lynn Henning", "Barry Bloom", "Brian MacPherson", "Chis McCosky", "Doug Miller", 
       "Michael McGarry", "Filip Bondy", "David Jablonski", "Arden Zwelling", "Joe Reedy", "Mark Newman", "Chris Assenheimer", 
-      "Enrique Rojas", "Sean Forman", "Bill Ballou", "Alan Greenwood", "Patrick Graham", "Bruce Miles", "Scott Merkin"]
+      "Enrique Rojas", "Sean Forman", "Bill Ballou", "Alan Greenwood", "Patrick Graham", "Bruce Miles", "Scott Merkin", "Josh Dubow"]
     },
     {
       "id": 23,
@@ -180,7 +180,7 @@
       "Doug Miller", "Octavio Sequera", "Arden Zwelling", "Peter Botte", "Joe Reedy", "David Skretta", "Robert Baum", 
       "Anthony Andro", "Mark Newman", "Chris Assenheimer", "Dan Gelston", "Kevin Cooney", "Meghan Montemurro", "Larry Fleisher", 
       "Sean Forman", "José de Jesus Ortiz", "Sadiel Lebron", "Larry Stone", "Patrick Graham", "Bruce Miles", "Scott Merkin", 
-      "Mark Faller"]
+      "Mark Faller", "Josh Dubow"]
     },
     {
       "id": 26,
