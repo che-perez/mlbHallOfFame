@@ -122,7 +122,7 @@ export default function MobilePlayerCards({ players, totalVoters }: MobilePlayer
                                 <CollapsibleContent>
                                     <div className="px-4 pb-4 pt-2 border-t border-slate-100 bg-slate-50">
                                         <p className="text-xs font-medium text-slate-600 mb-2">Public ballot voters ({ player.voters.length})</p>
-                                        <ScrollArea className="max-h-32">
+                                        <ScrollArea className="max-h-32 overflow-y-auto">
                                             <div className="flex flex-wrap gap-1.5">
                                                 {player.voters.map((voter, idx) => (
                                                     <Dialog key={idx}>

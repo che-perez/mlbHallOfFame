@@ -73,12 +73,12 @@ export default function CandidateList({ players, totalVotes }: CandidateListProp
 
                             {hasVoters && (
                                 <CollapsibleContent className="mt-3">
-                                    <div className="ml-9 bg-slate-50 rounded-lg p-3">
+                                    <div className="ml-9 bg-slate-50 rounded-lg p-3 overflow-hidden">
                                         <div className="flex items-center gap-2 mb-2">
                                             <Users className="h-3.5 w-3.5 text-slate-500" />
                                             <span className="text-xs font-medium text-slate-600">Voters ({ player.voters.length })</span>
                                         </div>
-                                        <ScrollArea className="max-h-32">
+                                        <ScrollArea className="max-h-32 overflow-y-auto">
                                             <div className="flex flex-wrap gap-1.5">
                                                 {sortVoters(player.voters).map((voter, idx) => (
                                                     <Dialog key={idx}>
