@@ -1,5 +1,5 @@
 {
-  "totalVoters": 50,
+  "totalVoters": 52,
   "players": [
     {
       "id": 1,
@@ -19,7 +19,8 @@
       "David Jablonski", "Octavio Sequera", "Arden Zwelling", "Peter Botte", "Joe Reedy", "Robert Baum", "Juan Vené", 
       "Maury Brown", "Mark Newman", "Chris Assenheimer", "Kevin Cooney", "Will Graves", "Meghan Montemurro", 
       "Enrique Rojas", "Larry Fleisher", "Sean Forman", "José de Jesus Ortiz", "Sadiel Lebron", "Larry Stone", "Patrick Graham", 
-      "Bruce Miles", "Scott Merkin", "Mark Faller", "Josh Dubow", "Kevin Kernan", "Travis Sawchik", "David Laurila", "Howard Sinker"]
+      "Bruce Miles", "Scott Merkin", "Mark Faller", "Josh Dubow", "Kevin Kernan", "Travis Sawchik", "David Laurila", "Howard Sinker", 
+      "Howard Kussoy"]
     },
     {
       "id": 3,
@@ -64,7 +65,7 @@
       "yearsOnBallot": 1,
       "voters": ["Michael McGarry", "Brian MacPherson", "Dan Szymborski", "Doug Miller", "Arden Zwelling", "Joe Reedy", "Maury Brown", 
       "Mark Newman", "Meghan Montemurro", "Sean Forman", "José de Jesus Ortiz", "Larry Stone", "Bruce Miles", "Mark Faller", 
-      "Kevin Kernan", "Travis Sawchik"]
+      "Kevin Kernan", "Travis Sawchik", "Howard Kussoy"]
     },
     {
       "id": 10,
@@ -74,7 +75,7 @@
       "David Jablonski", "Octavio Sequera", "Arden Zwelling", "Peter Botte", "Joe Reedy", "Maury Brown", "Mark Newman", 
       "Chris Assenheimer", "David Haugh", "Meghan Montemurro", "Enrique Rojas", "Larry Fleisher", "Sean Forman", 
       "José de Jesus Ortiz", "Sadiel Lebron", "Larry Stone", "Patrick Graham", "Bruce Miles", "Scott Merkin", "Mark Faller", 
-      "Travis Sawchik", "David Laurila", "Howard Sinker"]
+      "Travis Sawchik", "David Laurila", "Howard Sinker", "Howard Kussoy"]
     },
     {
       "id": 11,
@@ -92,7 +93,7 @@
       "Mark Newman", "Chris Assenheimer", "Kevin Cooney", "David Haugh", "Will Graves", "Meghan Montemurro", 
       "Enrique Rojas", "Larry Fleisher", "Sean Forman", "José de Jesus Ortiz", "Sadiel Lebron", "Larry Stone", 
       "Patrick Graham", "Bruce Miles", "Scott Merkin", "Mark Faller", "Josh Dubow", "Kevin Kernan", "Travis Sawchik", 
-      "David Laurila", "Howard Sinker"]
+      "David Laurila", "Howard Sinker", "Howard Kussoy"]
     },
     {
       "id": 13,
@@ -124,7 +125,7 @@
       "yearsOnBallot": 2,
       "voters": ["Michael McGarry", "Brian MacPherson", "Dan Szymborski", "Octavio Sequera", "Peter Botte", "Anthony Andro", 
       "Mark Newman", "Chris Assenheimer", "Kevin Cooney", "Meghan Montemurro", "Sean Forman", "Scott Merkin", "Travis Sawchik", 
-      "David Laurila"]
+      "David Laurila", "Howard Kussoy"]
     },
     {
       "id": 18,
@@ -139,7 +140,7 @@
       "voters": ["Jorge Morejón", "Chis McCosky", "Doug Miller", "William Ladson", "Barry Bloom", "Brian MacPherson", 
       "Michael McGarry", "Filip Bondy", "Dan Szymborski", "David Jablonski", "Arden Zwelling", "Joe Reedy", "Juan Vené", 
       "Mark Newman", "Kevin Cooney", "Meghan Montemurro", "Larry Fleisher", "José de Jesus Ortiz", "Sadiel Lebron", "Larry Stone", 
-      "Patrick Graham", "Bruce Miles", "Scott Merkin", "Mark Faller", "Kevin Kernan", "David Laurila", "Howard Sinker"]
+      "Patrick Graham", "Bruce Miles", "Scott Merkin", "Mark Faller", "Kevin Kernan", "David Laurila", "Howard Sinker", "Howard Kussoy"]
     },
     {
       "id": 20,
@@ -154,7 +155,7 @@
       "voters": ["Adam Rubin", "Michael McGarry", "Chis McCosky", "Filip Bondy", "David Jablonski", "Doug Miller", 
       "Arden Zwelling", "Joe Reedy", "Mark Newman", "Chris Assenheimer", "Enrique Rojas", "Sean Forman", "Bill Ballou", 
       "Alan Greenwood", "Patrick Graham", "Bruce Miles", "Scott Merkin", "Josh Dubow", "Kevin Kernan", "Travis Sawchik", 
-      "David Laurila", "Howard Sinker"]
+      "David Laurila", "Howard Sinker", "Howard Kussoy"]
     },
     {
       "id": 22,
@@ -163,7 +164,7 @@
       "voters": ["Adam Rubin","Lynn Henning", "Barry Bloom", "Brian MacPherson", "Chis McCosky", "Doug Miller", 
       "Michael McGarry", "Filip Bondy", "David Jablonski", "Arden Zwelling", "Joe Reedy", "Mark Newman", "Chris Assenheimer", 
       "Enrique Rojas", "Sean Forman", "Bill Ballou", "Alan Greenwood", "Patrick Graham", "Bruce Miles", "Scott Merkin", "Josh Dubow", 
-      "Kevin Kernan", "Travis Sawchik", "David Laurila", "Howard Sinker"]
+      "Kevin Kernan", "Travis Sawchik", "David Laurila", "Howard Sinker", "Howard Kussoy"]
     },
     {
       "id": 23,
@@ -187,7 +188,7 @@
       "Doug Miller", "Octavio Sequera", "Arden Zwelling", "Peter Botte", "Joe Reedy", "David Skretta", "Robert Baum", 
       "Anthony Andro", "Mark Newman", "Chris Assenheimer", "Dan Gelston", "Kevin Cooney", "Meghan Montemurro", "Larry Fleisher", 
       "Sean Forman", "José de Jesus Ortiz", "Sadiel Lebron", "Larry Stone", "Patrick Graham", "Bruce Miles", "Scott Merkin", 
-      "Mark Faller", "Josh Dubow", "Travis Sawchik", "David Laurila", "Howard Sinker"]
+      "Mark Faller", "Josh Dubow", "Travis Sawchik", "David Laurila", "Howard Sinker", "Howard Kussoy", "Marc Narducci"]
     },
     {
       "id": 26,
@@ -201,7 +202,7 @@
       "name": "David Wright",
       "yearsOnBallot": 3,
       "voters": ["Adam Rubin", "Annon 1", "Dan Szymborski", "Peter Botte", "Kevin Cooney", "Larry Fleisher", "José de Jesus Ortiz", 
-      "Bruce Miles", "Travis Sawchik", "David Laurila"]
+      "Bruce Miles", "Travis Sawchik", "David Laurila", "Howard Kussoy", "Marc Narducci"]
     }
   ]
 }
