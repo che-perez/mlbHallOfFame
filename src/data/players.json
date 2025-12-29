@@ -9,7 +9,7 @@
       "Doug Miller", "Octavio Sequera", "Robert Baum", "Anthony Andro", "Maury Brown", "Meghan Montemurro", "Enrique Rojas", 
       "Larry Fleisher", "Sean Forman", "José de Jesus Ortiz", "Sadiel Lebron", "Larry Stone", "Patrick Graham", "Travis Sawchik", 
       "David Laurila", "Howard Sinker", "Luis Rangel", "Tim Booth", "Erik Karabell", "Annon 3", "Rhett Bollinger", "Bernie Wilson", 
-      "Susan Slusser"]
+      "Susan Slusser", "Scott Ostler"]
     },
     {
       "id": 2,
@@ -82,7 +82,7 @@
       "José de Jesus Ortiz", "Sadiel Lebron", "Larry Stone", "Patrick Graham", "Bruce Miles", "Scott Merkin", "Mark Faller", 
       "Travis Sawchik", "David Laurila", "Howard Sinker", "Howard Kussoy", "Luis Rangel", "Tim Booth", "Annon 2", "Joe Frisaro", 
       "Steve Gardner", "Erik Karabell", "Annon 3", "Rhett Bollinger", "Dom Amore", "Bernie Wilson", "Henry Schulman", "Steve Kroner", 
-      "Christina Kahrl", "Ann Killion", "Susan Slusser"]
+      "Christina Kahrl", "Ann Killion", "Susan Slusser", "Scott Ostler"]
     },
     {
       "id": 11,
@@ -102,7 +102,7 @@
       "Patrick Graham", "Bruce Miles", "Scott Merkin", "Mark Faller", "Josh Dubow", "Kevin Kernan", "Travis Sawchik", 
       "David Laurila", "Howard Sinker", "Howard Kussoy", "Luis Rangel", "Tim Booth", "Annon 2", "Marcos Breton", "Joe Frisaro", 
       "Steve Gardner", "Erik Karabell", "Annon 3", "Rhett Bollinger", "Jimmy Golen", "Dom Amore", "Bernie Wilson", "Henry Schulman", 
-      "Chris De Luca", "Steve Kroner", "Christina Kahrl", "Ann Killion", "Ron Kroichick", "Susan Slusser"]
+      "Chris De Luca", "Steve Kroner", "Christina Kahrl", "Ann Killion", "Ron Kroichick", "Susan Slusser", "Scott Ostler"]
     },
     {
       "id": 13,
@@ -134,7 +134,7 @@
       "yearsOnBallot": 2,
       "voters": ["Michael McGarry", "Brian MacPherson", "Dan Szymborski", "Octavio Sequera", "Peter Botte", "Anthony Andro", 
       "Mark Newman", "Chris Assenheimer", "Kevin Cooney", "Meghan Montemurro", "Sean Forman", "Scott Merkin", "Travis Sawchik", 
-      "David Laurila", "Howard Kussoy", "Tim Booth", "Rhett Bollinger", "Steve Kroner"]
+      "David Laurila", "Howard Kussoy", "Tim Booth", "Rhett Bollinger", "Steve Kroner", "Scott Ostler"]
     },
     {
       "id": 18,
@@ -151,7 +151,8 @@
       "Mark Newman", "Kevin Cooney", "Meghan Montemurro", "Larry Fleisher", "José de Jesus Ortiz", "Sadiel Lebron", "Larry Stone", 
       "Patrick Graham", "Bruce Miles", "Scott Merkin", "Mark Faller", "Kevin Kernan", "David Laurila", "Howard Sinker", 
       "Howard Kussoy", "Tim Booth", "Annon 2", "Joe Frisaro", "Steve Gardner", "Erik Karabell", "Annon 3", "Rhett Bollinger", 
-      "Dom Amore", "Bernie Wilson", "Henry Schulman", "Chris De Luca", "Christina Kahrl", "Ron Kroichick", "Susan Slusser"]
+      "Dom Amore", "Bernie Wilson", "Henry Schulman", "Chris De Luca", "Christina Kahrl", "Ron Kroichick", "Susan Slusser", 
+      "Scott Ostler"]
     },
     {
       "id": 20,
@@ -194,7 +195,7 @@
       "voters": ["Adam Rubin", "Barry Bloom", "Michael McGarry", "Peter Botte", "Anthony Andro", "Mark Newman", "Dan Gelston", 
       "Kevin Cooney", "Meghan Montemurro", "Larry Fleisher", "José de Jesus Ortiz", "Patrick Graham", "Kevin Kernan", "Joe Frisaro", 
       "Steve Gardner", "Erik Karabell", "Bernie Wilson", "Henry Schulman", "Steve Kroner", "Christina Kahrl", "Ann Killion", 
-      "Susan Slusser"]
+      "Susan Slusser", "Scott Ostler"]
     },
     {
       "id": 25,
@@ -206,7 +207,7 @@
       "Sean Forman", "José de Jesus Ortiz", "Sadiel Lebron", "Larry Stone", "Patrick Graham", "Bruce Miles", "Scott Merkin", 
       "Mark Faller", "Josh Dubow", "Travis Sawchik", "David Laurila", "Howard Sinker", "Howard Kussoy", "Marc Narducci", "Tim Booth", 
       "Joe Frisaro", "Steve Gardner", "Erik Karabell", "Annon 3", "Rhett Bollinger", "Bernie Wilson", "Carl Steward", "Steve Kroner", 
-      "Christina Kahrl", "Ann Killion", "Susan Slusser"]
+      "Christina Kahrl", "Ann Killion", "Susan Slusser", "Scott Ostler"]
     },
     {
       "id": 26,
@@ -220,7 +221,7 @@
       "name": "David Wright",
       "yearsOnBallot": 3,
       "voters": ["Adam Rubin", "Annon 1", "Dan Szymborski", "Peter Botte", "Kevin Cooney", "Larry Fleisher", "José de Jesus Ortiz", 
-      "Bruce Miles", "Travis Sawchik", "David Laurila", "Howard Kussoy", "Marc Narducci", "Joe Frisaro"]
+      "Bruce Miles", "Travis Sawchik", "David Laurila", "Howard Kussoy", "Marc Narducci", "Joe Frisaro", "Scott Ostler"]
     }
   ]
 }
