@@ -42,7 +42,7 @@ export default function App():JSX.Element {
             </div>
           </div>
           <div className="mt-3 gap-x-4 gap-y-1 text-xs text-slate-400">
-            <span>Last updated: 12/25/2025</span><br/><span>{votingData.totalVoters} Total Ballots (Only Public Official Results)</span>
+            <span>Last updated: 12/28/2025</span><br/><span>{votingData.totalVoters} Total Ballots (Only Public Official Results)</span>
           </div>
         </header>
 
