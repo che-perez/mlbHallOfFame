@@ -8,7 +8,8 @@
       "voters": ["Aurelio Moreno", "Arden Zwelling", "Brian MacPherson", "Chis McCosky", "Dan Szymborski", "David Jablonski", 
       "Doug Miller", "Octavio Sequera", "Robert Baum", "Anthony Andro", "Maury Brown", "Meghan Montemurro", "Enrique Rojas", 
       "Larry Fleisher", "Sean Forman", "José de Jesus Ortiz", "Sadiel Lebron", "Larry Stone", "Patrick Graham", "Travis Sawchik", 
-      "David Laurila", "Howard Sinker", "Luis Rangel", "Tim Booth", "Erik Karabell", "Annon 3", "Rhett Bollinger", "Bernie Wilson"]
+      "David Laurila", "Howard Sinker", "Luis Rangel", "Tim Booth", "Erik Karabell", "Annon 3", "Rhett Bollinger", "Bernie Wilson", 
+      "Susan Slusser"]
     },
     {
       "id": 2,
@@ -22,7 +23,7 @@
       "Bruce Miles", "Scott Merkin", "Mark Faller", "Josh Dubow", "Kevin Kernan", "Travis Sawchik", "David Laurila", "Howard Sinker", 
       "Howard Kussoy", "Luis Rangel", "Nick Piertruszikiewicz", "Tim Booth", "Annon 2", "Marcos Breton", "Joe Frisaro", "Steve Gardner", 
       "Erik Karabell", "Annon 3", "Rhett Bollinger", "Jimmy Golen", "Dom Amore", "Bernie Wilson", "Carl Steward", "Henry Schulman", 
-      "Chris De Luca", "Steve Kroner", "Bruce Jenkins", "Steve Wine"]
+      "Chris De Luca", "Steve Kroner", "Bruce Jenkins", "Steve Wine", "Christina Kahrl", "Ron Kroichick", "Susan Slusser"]
     },
     {
       "id": 3,
@@ -36,7 +37,7 @@
       "yearsOnBallot": 6,
       "voters": ["William Ladson", "Filip Bondy", "Brian MacPherson", "Dan Szymborski", "David Jablonski", "Arden Zwelling", 
       "David Haugh", "Meghan Montemurro", "Larry Fleisher", "Sean Forman", "Sadiel Lebron", "Bruce Miles", "Scott Merkin", 
-      "Steve Gardner", "Chris De Luca", "Steve Kroner"]
+      "Steve Gardner", "Chris De Luca", "Steve Kroner", "Christina Kahrl"]
     },
     {
       "id": 5,
@@ -69,7 +70,7 @@
       "voters": ["Michael McGarry", "Brian MacPherson", "Dan Szymborski", "Doug Miller", "Arden Zwelling", "Joe Reedy", "Maury Brown", 
       "Mark Newman", "Meghan Montemurro", "Sean Forman", "José de Jesus Ortiz", "Larry Stone", "Bruce Miles", "Mark Faller", 
       "Kevin Kernan", "Travis Sawchik", "Howard Kussoy", "Luis Rangel", "Tim Booth", "Joe Frisaro", "Steve Gardner", "Erik Karabell", 
-      "Annon 3", "Steve Kroner"]
+      "Annon 3", "Steve Kroner", "Christina Kahrl"]
     },
     {
       "id": 10,
@@ -80,7 +81,8 @@
       "Chris Assenheimer", "David Haugh", "Meghan Montemurro", "Enrique Rojas", "Larry Fleisher", "Sean Forman", 
       "José de Jesus Ortiz", "Sadiel Lebron", "Larry Stone", "Patrick Graham", "Bruce Miles", "Scott Merkin", "Mark Faller", 
       "Travis Sawchik", "David Laurila", "Howard Sinker", "Howard Kussoy", "Luis Rangel", "Tim Booth", "Annon 2", "Joe Frisaro", 
-      "Steve Gardner", "Erik Karabell", "Annon 3", "Rhett Bollinger", "Dom Amore", "Bernie Wilson", "Henry Schulman", "Steve Kroner"]
+      "Steve Gardner", "Erik Karabell", "Annon 3", "Rhett Bollinger", "Dom Amore", "Bernie Wilson", "Henry Schulman", "Steve Kroner", 
+      "Christina Kahrl", "Ann Killion", "Susan Slusser"]
     },
     {
       "id": 11,
@@ -100,7 +102,7 @@
       "Patrick Graham", "Bruce Miles", "Scott Merkin", "Mark Faller", "Josh Dubow", "Kevin Kernan", "Travis Sawchik", 
       "David Laurila", "Howard Sinker", "Howard Kussoy", "Luis Rangel", "Tim Booth", "Annon 2", "Marcos Breton", "Joe Frisaro", 
       "Steve Gardner", "Erik Karabell", "Annon 3", "Rhett Bollinger", "Jimmy Golen", "Dom Amore", "Bernie Wilson", "Henry Schulman", 
-      "Chris De Luca", "Steve Kroner"]
+      "Chris De Luca", "Steve Kroner", "Christina Kahrl", "Ann Killion", "Ron Kroichick", "Susan Slusser"]
     },
     {
       "id": 13,
@@ -149,7 +151,7 @@
       "Mark Newman", "Kevin Cooney", "Meghan Montemurro", "Larry Fleisher", "José de Jesus Ortiz", "Sadiel Lebron", "Larry Stone", 
       "Patrick Graham", "Bruce Miles", "Scott Merkin", "Mark Faller", "Kevin Kernan", "David Laurila", "Howard Sinker", 
       "Howard Kussoy", "Tim Booth", "Annon 2", "Joe Frisaro", "Steve Gardner", "Erik Karabell", "Annon 3", "Rhett Bollinger", 
-      "Dom Amore", "Bernie Wilson", "Henry Schulman", "Chris De Luca"]
+      "Dom Amore", "Bernie Wilson", "Henry Schulman", "Chris De Luca", "Christina Kahrl", "Ron Kroichick", "Susan Slusser"]
     },
     {
       "id": 20,
@@ -165,7 +167,7 @@
       "Arden Zwelling", "Joe Reedy", "Mark Newman", "Chris Assenheimer", "Enrique Rojas", "Sean Forman", "Bill Ballou", 
       "Alan Greenwood", "Patrick Graham", "Bruce Miles", "Scott Merkin", "Josh Dubow", "Kevin Kernan", "Travis Sawchik", 
       "David Laurila", "Howard Sinker", "Howard Kussoy", "Luis Rangel", "Nick Piertruszikiewicz", "Tim Booth", "Joe Frisaro", 
-      "Erik Karabell", "Annon 3", "Rhett Bollinger", "Bruce Jenkins"]
+      "Erik Karabell", "Annon 3", "Rhett Bollinger", "Bruce Jenkins", "Christina Kahrl", "Susan Slusser"]
     },
     {
       "id": 22,
@@ -175,14 +177,15 @@
       "Michael McGarry", "Filip Bondy", "David Jablonski", "Arden Zwelling", "Joe Reedy", "Mark Newman", "Chris Assenheimer", 
       "Enrique Rojas", "Sean Forman", "Bill Ballou", "Alan Greenwood", "Patrick Graham", "Bruce Miles", "Scott Merkin", "Josh Dubow", 
       "Kevin Kernan", "Travis Sawchik", "David Laurila", "Howard Sinker", "Howard Kussoy", "Luis Rangel", "Nick Piertruszikiewicz", 
-      "Tim Booth", "Joe Frisaro", "Erik Karabell", "Annon 3", "Rhett Bollinger", "Henry Schulman", "Steve Kroner", "Bruce Jenkins"]
+      "Tim Booth", "Joe Frisaro", "Erik Karabell", "Annon 3", "Rhett Bollinger", "Henry Schulman", "Steve Kroner", "Bruce Jenkins", 
+      "Christina Kahrl", "Susan Slusser"]
     },
     {
       "id": 23,
       "name": "Francisco Rodríguez",
       "yearsOnBallot": 4,
       "voters": ["Jorge Morejón", "Filip Bondy", "Octavio Sequera", "Chris Assenheimer", "Kevin Cooney", "Larry Fleisher", 
-      "Sadiel Lebron", "Rhett Bollinger", "Henry Schulman"]
+      "Sadiel Lebron", "Rhett Bollinger", "Henry Schulman", "Susan Slusser"]
     },
     {
       "id": 24,
@@ -190,7 +193,8 @@
       "yearsOnBallot": 5,
       "voters": ["Adam Rubin", "Barry Bloom", "Michael McGarry", "Peter Botte", "Anthony Andro", "Mark Newman", "Dan Gelston", 
       "Kevin Cooney", "Meghan Montemurro", "Larry Fleisher", "José de Jesus Ortiz", "Patrick Graham", "Kevin Kernan", "Joe Frisaro", 
-      "Steve Gardner", "Erik Karabell", "Bernie Wilson", "Henry Schulman", "Steve Kroner"]
+      "Steve Gardner", "Erik Karabell", "Bernie Wilson", "Henry Schulman", "Steve Kroner", "Christina Kahrl", "Ann Killion", 
+      "Susan Slusser"]
     },
     {
       "id": 25,
@@ -201,7 +205,8 @@
       "Anthony Andro", "Mark Newman", "Chris Assenheimer", "Dan Gelston", "Kevin Cooney", "Meghan Montemurro", "Larry Fleisher", 
       "Sean Forman", "José de Jesus Ortiz", "Sadiel Lebron", "Larry Stone", "Patrick Graham", "Bruce Miles", "Scott Merkin", 
       "Mark Faller", "Josh Dubow", "Travis Sawchik", "David Laurila", "Howard Sinker", "Howard Kussoy", "Marc Narducci", "Tim Booth", 
-      "Joe Frisaro", "Steve Gardner", "Erik Karabell", "Annon 3", "Rhett Bollinger", "Bernie Wilson", "Carl Steward", "Steve Kroner"]
+      "Joe Frisaro", "Steve Gardner", "Erik Karabell", "Annon 3", "Rhett Bollinger", "Bernie Wilson", "Carl Steward", "Steve Kroner", 
+      "Christina Kahrl", "Ann Killion", "Susan Slusser"]
     },
     {
       "id": 26,
