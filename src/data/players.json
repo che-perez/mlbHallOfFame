@@ -1,5 +1,5 @@
 {
-  "totalVoters": 76,
+  "totalVoters": 87,
   "players": [
     {
       "id": 1,
@@ -9,7 +9,7 @@
       "Doug Miller", "Octavio Sequera", "Robert Baum", "Anthony Andro", "Maury Brown", "Meghan Montemurro", "Enrique Rojas", 
       "Larry Fleisher", "Sean Forman", "José de Jesus Ortiz", "Sadiel Lebron", "Larry Stone", "Patrick Graham", "Travis Sawchik", 
       "David Laurila", "Howard Sinker", "Luis Rangel", "Tim Booth", "Erik Karabell", "Annon 3", "Rhett Bollinger", "Bernie Wilson", 
-      "Susan Slusser", "Scott Ostler"]
+      "Susan Slusser", "Scott Ostler", "Ben Nicholson-Smith", "Don Shelton", "Ryan Lewis", "Christopher Smith", "Steve Gilbert"]
     },
     {
       "id": 2,
@@ -23,7 +23,9 @@
       "Bruce Miles", "Scott Merkin", "Mark Faller", "Josh Dubow", "Kevin Kernan", "Travis Sawchik", "David Laurila", "Howard Sinker", 
       "Howard Kussoy", "Luis Rangel", "Nick Piertruszikiewicz", "Tim Booth", "Annon 2", "Marcos Breton", "Joe Frisaro", "Steve Gardner", 
       "Erik Karabell", "Annon 3", "Rhett Bollinger", "Jimmy Golen", "Dom Amore", "Bernie Wilson", "Carl Steward", "Henry Schulman", 
-      "Chris De Luca", "Steve Kroner", "Bruce Jenkins", "Steve Wine", "Christina Kahrl", "Ron Kroichick", "Susan Slusser"]
+      "Chris De Luca", "Steve Kroner", "Bruce Jenkins", "Steve Wine", "Christina Kahrl", "Ron Kroichick", "Susan Slusser", "Evan Grant", 
+      "Mac Engel", "Ben Nicholson-Smith", "Greg Cote", "Don Shelton", "Art Davidson", "Jay Cohen", "Ryan Lewis", "Christopher Smith", 
+      "Ian Browne", "Steve Gilbert"]
     },
     {
       "id": 3,
@@ -37,7 +39,8 @@
       "yearsOnBallot": 6,
       "voters": ["William Ladson", "Filip Bondy", "Brian MacPherson", "Dan Szymborski", "David Jablonski", "Arden Zwelling", 
       "David Haugh", "Meghan Montemurro", "Larry Fleisher", "Sean Forman", "Sadiel Lebron", "Bruce Miles", "Scott Merkin", 
-      "Steve Gardner", "Chris De Luca", "Steve Kroner", "Christina Kahrl"]
+      "Steve Gardner", "Chris De Luca", "Steve Kroner", "Christina Kahrl", "Evan Grant", "Ben Nicholson-Smith", "Don Shelton", 
+      "Jay Cohen", "Steve Gilbert"]
     },
     {
       "id": 5,
@@ -70,7 +73,7 @@
       "voters": ["Michael McGarry", "Brian MacPherson", "Dan Szymborski", "Doug Miller", "Arden Zwelling", "Joe Reedy", "Maury Brown", 
       "Mark Newman", "Meghan Montemurro", "Sean Forman", "José de Jesus Ortiz", "Larry Stone", "Bruce Miles", "Mark Faller", 
       "Kevin Kernan", "Travis Sawchik", "Howard Kussoy", "Luis Rangel", "Tim Booth", "Joe Frisaro", "Steve Gardner", "Erik Karabell", 
-      "Annon 3", "Steve Kroner", "Christina Kahrl"]
+      "Annon 3", "Steve Kroner", "Christina Kahrl", "Ben Nicholson-Smith", "Jay Cohen", "Ryan Lewis", "Steve Gilbert"]
     },
     {
       "id": 10,
@@ -82,13 +85,14 @@
       "José de Jesus Ortiz", "Sadiel Lebron", "Larry Stone", "Patrick Graham", "Bruce Miles", "Scott Merkin", "Mark Faller", 
       "Travis Sawchik", "David Laurila", "Howard Sinker", "Howard Kussoy", "Luis Rangel", "Tim Booth", "Annon 2", "Joe Frisaro", 
       "Steve Gardner", "Erik Karabell", "Annon 3", "Rhett Bollinger", "Dom Amore", "Bernie Wilson", "Henry Schulman", "Steve Kroner", 
-      "Christina Kahrl", "Ann Killion", "Susan Slusser", "Scott Ostler"]
+      "Christina Kahrl", "Ann Killion", "Susan Slusser", "Scott Ostler", "Evan Grant", "Don Shelton", "Jay Cohen", "Ryan Lewis", 
+      "Ian Browne", "Steve Gilbert"]
     },
     {
       "id": 11,
       "name": "Tori Hunter",
       "yearsOnBallot": 6,
-      "voters": ["Octavio Sequera"]
+      "voters": ["Octavio Sequera", "Evan Grant"]
     },
     {
       "id": 12,
@@ -102,7 +106,9 @@
       "Patrick Graham", "Bruce Miles", "Scott Merkin", "Mark Faller", "Josh Dubow", "Kevin Kernan", "Travis Sawchik", 
       "David Laurila", "Howard Sinker", "Howard Kussoy", "Luis Rangel", "Tim Booth", "Annon 2", "Marcos Breton", "Joe Frisaro", 
       "Steve Gardner", "Erik Karabell", "Annon 3", "Rhett Bollinger", "Jimmy Golen", "Dom Amore", "Bernie Wilson", "Henry Schulman", 
-      "Chris De Luca", "Steve Kroner", "Christina Kahrl", "Ann Killion", "Ron Kroichick", "Susan Slusser", "Scott Ostler"]
+      "Chris De Luca", "Steve Kroner", "Christina Kahrl", "Ann Killion", "Ron Kroichick", "Susan Slusser", "Scott Ostler", 
+      "Evan Grant", "Mac Engel", "Ben Nicholson-Smith", "Greg Cote", "Don Shelton", "Art Davidson", "Ryan Lewis", "Christopher Smith", 
+      "Ian Browne", "Steve Gilbert"]
     },
     {
       "id": 13,
@@ -134,7 +140,8 @@
       "yearsOnBallot": 2,
       "voters": ["Michael McGarry", "Brian MacPherson", "Dan Szymborski", "Octavio Sequera", "Peter Botte", "Anthony Andro", 
       "Mark Newman", "Chris Assenheimer", "Kevin Cooney", "Meghan Montemurro", "Sean Forman", "Scott Merkin", "Travis Sawchik", 
-      "David Laurila", "Howard Kussoy", "Tim Booth", "Rhett Bollinger", "Steve Kroner", "Scott Ostler"]
+      "David Laurila", "Howard Kussoy", "Tim Booth", "Rhett Bollinger", "Steve Kroner", "Scott Ostler", "Evan Grant", "Ryan Lewis", 
+      "Ian Browne"]
     },
     {
       "id": 18,
@@ -152,7 +159,7 @@
       "Patrick Graham", "Bruce Miles", "Scott Merkin", "Mark Faller", "Kevin Kernan", "David Laurila", "Howard Sinker", 
       "Howard Kussoy", "Tim Booth", "Annon 2", "Joe Frisaro", "Steve Gardner", "Erik Karabell", "Annon 3", "Rhett Bollinger", 
       "Dom Amore", "Bernie Wilson", "Henry Schulman", "Chris De Luca", "Christina Kahrl", "Ron Kroichick", "Susan Slusser", 
-      "Scott Ostler"]
+      "Scott Ostler", "Evan Grant", "Mac Engel", "Ben Nicholson-Smith", "Greg Cote", "Don Shelton", "Ryan Lewis", "Ian Browne"]
     },
     {
       "id": 20,
@@ -168,7 +175,8 @@
       "Arden Zwelling", "Joe Reedy", "Mark Newman", "Chris Assenheimer", "Enrique Rojas", "Sean Forman", "Bill Ballou", 
       "Alan Greenwood", "Patrick Graham", "Bruce Miles", "Scott Merkin", "Josh Dubow", "Kevin Kernan", "Travis Sawchik", 
       "David Laurila", "Howard Sinker", "Howard Kussoy", "Luis Rangel", "Nick Piertruszikiewicz", "Tim Booth", "Joe Frisaro", 
-      "Erik Karabell", "Annon 3", "Rhett Bollinger", "Bruce Jenkins", "Christina Kahrl", "Susan Slusser"]
+      "Erik Karabell", "Annon 3", "Rhett Bollinger", "Bruce Jenkins", "Christina Kahrl", "Susan Slusser", "Mac Engel", 
+      "Ben Nicholson-Smith", "Greg Cote", "Don Shelton", "Ryan Lewis", "Christopher Smith"]
     },
     {
       "id": 22,
@@ -179,14 +187,14 @@
       "Enrique Rojas", "Sean Forman", "Bill Ballou", "Alan Greenwood", "Patrick Graham", "Bruce Miles", "Scott Merkin", "Josh Dubow", 
       "Kevin Kernan", "Travis Sawchik", "David Laurila", "Howard Sinker", "Howard Kussoy", "Luis Rangel", "Nick Piertruszikiewicz", 
       "Tim Booth", "Joe Frisaro", "Erik Karabell", "Annon 3", "Rhett Bollinger", "Henry Schulman", "Steve Kroner", "Bruce Jenkins", 
-      "Christina Kahrl", "Susan Slusser"]
+      "Christina Kahrl", "Susan Slusser", "Mac Engel", "Ben Nicholson-Smith", "Greg Cote", "Don Shelton", "Ryan Lewis", "Christopher Smith"]
     },
     {
       "id": 23,
       "name": "Francisco Rodríguez",
       "yearsOnBallot": 4,
       "voters": ["Jorge Morejón", "Filip Bondy", "Octavio Sequera", "Chris Assenheimer", "Kevin Cooney", "Larry Fleisher", 
-      "Sadiel Lebron", "Rhett Bollinger", "Henry Schulman", "Susan Slusser"]
+      "Sadiel Lebron", "Rhett Bollinger", "Henry Schulman", "Susan Slusser", "Greg Cote", "Art Davidson"]
     },
     {
       "id": 24,
@@ -195,7 +203,7 @@
       "voters": ["Adam Rubin", "Barry Bloom", "Michael McGarry", "Peter Botte", "Anthony Andro", "Mark Newman", "Dan Gelston", 
       "Kevin Cooney", "Meghan Montemurro", "Larry Fleisher", "José de Jesus Ortiz", "Patrick Graham", "Kevin Kernan", "Joe Frisaro", 
       "Steve Gardner", "Erik Karabell", "Bernie Wilson", "Henry Schulman", "Steve Kroner", "Christina Kahrl", "Ann Killion", 
-      "Susan Slusser", "Scott Ostler"]
+      "Susan Slusser", "Scott Ostler", "Don Shelton"]
     },
     {
       "id": 25,
@@ -207,7 +215,8 @@
       "Sean Forman", "José de Jesus Ortiz", "Sadiel Lebron", "Larry Stone", "Patrick Graham", "Bruce Miles", "Scott Merkin", 
       "Mark Faller", "Josh Dubow", "Travis Sawchik", "David Laurila", "Howard Sinker", "Howard Kussoy", "Marc Narducci", "Tim Booth", 
       "Joe Frisaro", "Steve Gardner", "Erik Karabell", "Annon 3", "Rhett Bollinger", "Bernie Wilson", "Carl Steward", "Steve Kroner", 
-      "Christina Kahrl", "Ann Killion", "Susan Slusser", "Scott Ostler"]
+      "Christina Kahrl", "Ann Killion", "Susan Slusser", "Scott Ostler", "Ben Nicholson-Smith", "Don Shelton", "Jay Cohen", "Ryan Lewis", 
+      "Christopher Smith", "Ian Browne", "Steve Gilbert"]
     },
     {
       "id": 26,
@@ -221,7 +230,7 @@
       "name": "David Wright",
       "yearsOnBallot": 3,
       "voters": ["Adam Rubin", "Annon 1", "Dan Szymborski", "Peter Botte", "Kevin Cooney", "Larry Fleisher", "José de Jesus Ortiz", 
-      "Bruce Miles", "Travis Sawchik", "David Laurila", "Howard Kussoy", "Marc Narducci", "Joe Frisaro", "Scott Ostler"]
+      "Bruce Miles", "Travis Sawchik", "David Laurila", "Howard Kussoy", "Marc Narducci", "Joe Frisaro", "Scott Ostler", "Ian Browne"]
     }
   ]
 }
